@@ -3,7 +3,7 @@
 A high-fidelity cricket tournament simulator and match predictor built with **XGBoost Machine Learning** and **Streamlit**. This app predicts match outcomes for the upcoming 2026 T20 World Cup and simulates the entire tournament from the Group Stage to the Grand Final.
 
 ## 🚀 Live Demo
-[Insert your Streamlit Cloud Link Here]
+[https://t20-worldcup-predictor.streamlit.app]
 
 ## ✨ Key Features
 * **Match Predictor:** Real-time win probability analysis for any two teams at specific venues.
