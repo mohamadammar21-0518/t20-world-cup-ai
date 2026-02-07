@@ -9,7 +9,7 @@ import joblib
 # -------------------------------------------------------------
 st.set_page_config(
     page_title="ICC T20 World Cup 2026 – AI Dashboard",
-    page_icon=r"C:\Users\User\OneDrive\Desktop\T20_WorldCup_Predictor\Gemini_Generated_Image_k03jlnk03jlnk03j.png",
+    page_icon=r"logo.png",
     layout="wide",
 )
 
@@ -287,7 +287,7 @@ def draw_win_probability(prob, t1, t2):
 # -------------------------------------------------------------
 with st.sidebar:
     # Path to your generated logo
-    logo_path = r"C:\Users\User\OneDrive\Desktop\T20_WorldCup_Predictor\Gemini_Generated_Image_k03jlnk03jlnk03j.png"
+    logo_path = "logo.png"
 
     try:
         # We use use_container_width to avoid the warning box
