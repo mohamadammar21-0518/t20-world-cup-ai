@@ -1,0 +1,253 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,New Zealand
+info,team,India
+info,gender,male
+info,season,2025/26
+info,date,2026/01/25
+info,event,New Zealand tour of India
+info,match_number,3
+info,venue,"Barsapara Cricket Stadium, Guwahati"
+info,city,Guwahati
+info,toss_winner,India
+info,toss_decision,field
+info,player_of_match,JJ Bumrah
+info,umpire,J Madanagopal
+info,umpire,Nitin Menon
+info,reserve_umpire,KN Ananthapadmanabhan
+info,tv_umpire,R Pandit
+info,match_referee,J Srinath
+info,winner,India
+info,winner_wickets,8
+info,player,New Zealand,DP Conway
+info,player,New Zealand,TL Seifert
+info,player,New Zealand,R Ravindra
+info,player,New Zealand,GD Phillips
+info,player,New Zealand,MS Chapman
+info,player,New Zealand,DJ Mitchell
+info,player,New Zealand,MJ Santner
+info,player,New Zealand,KA Jamieson
+info,player,New Zealand,MJ Henry
+info,player,New Zealand,IS Sodhi
+info,player,New Zealand,JA Duffy
+info,player,India,SV Samson
+info,player,India,Abhishek Sharma
+info,player,India,Ishan Kishan
+info,player,India,SA Yadav
+info,player,India,S Dube
+info,player,India,RK Singh
+info,player,India,HH Pandya
+info,player,India,Harshit Rana
+info,player,India,Ravi Bishnoi
+info,player,India,Kuldeep Yadav
+info,player,India,JJ Bumrah
+info,registry,people,Abhishek Sharma,f29185a1
+info,registry,people,DJ Mitchell,eade4650
+info,registry,people,DP Conway,df5a6881
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,Harshit Rana,77b1aa15
+info,registry,people,IS Sodhi,641ac5ff
+info,registry,people,Ishan Kishan,752f7486
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JA Duffy,dadbdb68
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,KA Jamieson,68c56d09
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,Kuldeep Yadav,8d2c70ad
+info,registry,people,MJ Henry,e84ac20c
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,MS Chapman,7fa12533
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,R Pandit,8a604384
+info,registry,people,R Ravindra,ba5e1069
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,Ravi Bishnoi,df064e1a
+info,registry,people,S Dube,a4e37e47
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SV Samson,a4cc73aa
+info,registry,people,TL Seifert,4663bd23
+ball,1,0.1,New Zealand,DP Conway,TL Seifert,Harshit Rana,1,0,,,,,,"",""
+ball,1,0.2,New Zealand,TL Seifert,DP Conway,Harshit Rana,1,0,,,,,,"",""
+ball,1,0.3,New Zealand,DP Conway,TL Seifert,Harshit Rana,0,0,,,,,,caught,DP Conway
+ball,1,0.4,New Zealand,R Ravindra,TL Seifert,Harshit Rana,4,0,,,,,,"",""
+ball,1,0.5,New Zealand,R Ravindra,TL Seifert,Harshit Rana,0,0,,,,,,"",""
+ball,1,0.6,New Zealand,R Ravindra,TL Seifert,Harshit Rana,0,0,,,,,,"",""
+ball,1,1.1,New Zealand,TL Seifert,R Ravindra,HH Pandya,4,0,,,,,,"",""
+ball,1,1.2,New Zealand,TL Seifert,R Ravindra,HH Pandya,3,0,,,,,,"",""
+ball,1,1.3,New Zealand,R Ravindra,TL Seifert,HH Pandya,0,0,,,,,,"",""
+ball,1,1.4,New Zealand,R Ravindra,TL Seifert,HH Pandya,0,0,,,,,,caught,R Ravindra
+ball,1,1.5,New Zealand,GD Phillips,TL Seifert,HH Pandya,4,0,,,,,,"",""
+ball,1,1.6,New Zealand,GD Phillips,TL Seifert,HH Pandya,0,0,,,,,,"",""
+ball,1,2.1,New Zealand,TL Seifert,GD Phillips,Harshit Rana,1,0,,,,,,"",""
+ball,1,2.2,New Zealand,GD Phillips,TL Seifert,Harshit Rana,4,0,,,,,,"",""
+ball,1,2.3,New Zealand,GD Phillips,TL Seifert,Harshit Rana,0,0,,,,,,"",""
+ball,1,2.4,New Zealand,GD Phillips,TL Seifert,Harshit Rana,4,0,,,,,,"",""
+ball,1,2.5,New Zealand,GD Phillips,TL Seifert,Harshit Rana,0,0,,,,,,"",""
+ball,1,2.6,New Zealand,GD Phillips,TL Seifert,Harshit Rana,0,0,,,,,,"",""
+ball,1,3.1,New Zealand,TL Seifert,GD Phillips,HH Pandya,1,0,,,,,,"",""
+ball,1,3.2,New Zealand,GD Phillips,TL Seifert,HH Pandya,1,0,,,,,,"",""
+ball,1,3.3,New Zealand,TL Seifert,GD Phillips,HH Pandya,1,0,,,,,,"",""
+ball,1,3.4,New Zealand,GD Phillips,TL Seifert,HH Pandya,0,0,,,,,,"",""
+ball,1,3.5,New Zealand,GD Phillips,TL Seifert,HH Pandya,0,0,,,,,,"",""
+ball,1,3.6,New Zealand,GD Phillips,TL Seifert,HH Pandya,4,0,,,,,,"",""
+ball,1,4.1,New Zealand,TL Seifert,GD Phillips,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,4.2,New Zealand,TL Seifert,GD Phillips,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,4.3,New Zealand,TL Seifert,GD Phillips,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,4.4,New Zealand,TL Seifert,GD Phillips,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,4.5,New Zealand,GD Phillips,TL Seifert,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,4.6,New Zealand,GD Phillips,TL Seifert,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,5.1,New Zealand,TL Seifert,GD Phillips,JJ Bumrah,0,0,,,,,,bowled,TL Seifert
+ball,1,5.2,New Zealand,MS Chapman,GD Phillips,JJ Bumrah,1,0,,,,,,"",""
+ball,1,5.3,New Zealand,GD Phillips,MS Chapman,JJ Bumrah,0,0,,,,,,"",""
+ball,1,5.4,New Zealand,GD Phillips,MS Chapman,JJ Bumrah,0,0,,,,,,"",""
+ball,1,5.5,New Zealand,GD Phillips,MS Chapman,JJ Bumrah,0,0,,,,,,"",""
+ball,1,5.6,New Zealand,GD Phillips,MS Chapman,JJ Bumrah,1,0,,,,,,"",""
+ball,1,6.1,New Zealand,GD Phillips,MS Chapman,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,6.2,New Zealand,MS Chapman,GD Phillips,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,6.3,New Zealand,MS Chapman,GD Phillips,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,6.4,New Zealand,MS Chapman,GD Phillips,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,6.5,New Zealand,GD Phillips,MS Chapman,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,6.6,New Zealand,GD Phillips,MS Chapman,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,7.1,New Zealand,GD Phillips,MS Chapman,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,7.2,New Zealand,MS Chapman,GD Phillips,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,7.3,New Zealand,MS Chapman,GD Phillips,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,7.4,New Zealand,GD Phillips,MS Chapman,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,7.5,New Zealand,MS Chapman,GD Phillips,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,7.6,New Zealand,MS Chapman,GD Phillips,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,8.1,New Zealand,MS Chapman,GD Phillips,Kuldeep Yadav,6,0,,,,,,"",""
+ball,1,8.2,New Zealand,MS Chapman,GD Phillips,Kuldeep Yadav,4,0,,,,,,"",""
+ball,1,8.3,New Zealand,MS Chapman,GD Phillips,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,8.4,New Zealand,GD Phillips,MS Chapman,Kuldeep Yadav,6,0,,,,,,"",""
+ball,1,8.5,New Zealand,GD Phillips,MS Chapman,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,8.6,New Zealand,MS Chapman,GD Phillips,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,9.1,New Zealand,MS Chapman,GD Phillips,S Dube,0,0,,,,,,"",""
+ball,1,9.2,New Zealand,MS Chapman,GD Phillips,S Dube,4,0,,,,,,"",""
+ball,1,9.3,New Zealand,MS Chapman,GD Phillips,S Dube,1,0,,,,,,"",""
+ball,1,9.4,New Zealand,GD Phillips,MS Chapman,S Dube,1,0,,,,,,"",""
+ball,1,9.5,New Zealand,MS Chapman,GD Phillips,S Dube,6,0,,,,,,"",""
+ball,1,9.6,New Zealand,MS Chapman,GD Phillips,S Dube,1,0,,,,,,"",""
+ball,1,10.1,New Zealand,MS Chapman,GD Phillips,JJ Bumrah,1,0,,,,,,"",""
+ball,1,10.2,New Zealand,GD Phillips,MS Chapman,JJ Bumrah,0,0,,,,,,"",""
+ball,1,10.3,New Zealand,GD Phillips,MS Chapman,JJ Bumrah,0,0,,,,,,"",""
+ball,1,10.4,New Zealand,GD Phillips,MS Chapman,JJ Bumrah,4,0,,,,,,"",""
+ball,1,10.5,New Zealand,GD Phillips,MS Chapman,JJ Bumrah,1,0,,,,,,"",""
+ball,1,10.6,New Zealand,MS Chapman,GD Phillips,JJ Bumrah,1,0,,,,,,"",""
+ball,1,11.1,New Zealand,MS Chapman,GD Phillips,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,11.2,New Zealand,MS Chapman,GD Phillips,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,11.3,New Zealand,GD Phillips,MS Chapman,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,11.4,New Zealand,MS Chapman,GD Phillips,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,11.5,New Zealand,GD Phillips,MS Chapman,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,11.6,New Zealand,MS Chapman,GD Phillips,Ravi Bishnoi,0,0,,,,,,caught,MS Chapman
+ball,1,12.1,New Zealand,GD Phillips,DJ Mitchell,Harshit Rana,1,0,,,,,,"",""
+ball,1,12.2,New Zealand,DJ Mitchell,GD Phillips,Harshit Rana,0,0,,,,,,"",""
+ball,1,12.3,New Zealand,DJ Mitchell,GD Phillips,Harshit Rana,6,0,,,,,,"",""
+ball,1,12.4,New Zealand,DJ Mitchell,GD Phillips,Harshit Rana,2,0,,,,,,"",""
+ball,1,12.5,New Zealand,DJ Mitchell,GD Phillips,Harshit Rana,1,0,,,,,,"",""
+ball,1,12.6,New Zealand,GD Phillips,DJ Mitchell,Harshit Rana,1,0,,,,,,"",""
+ball,1,13.1,New Zealand,GD Phillips,DJ Mitchell,Kuldeep Yadav,4,0,,,,,,"",""
+ball,1,13.2,New Zealand,GD Phillips,DJ Mitchell,Kuldeep Yadav,2,0,,,,,,"",""
+ball,1,13.3,New Zealand,GD Phillips,DJ Mitchell,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,13.4,New Zealand,DJ Mitchell,GD Phillips,Kuldeep Yadav,0,0,,,,,,"",""
+ball,1,13.5,New Zealand,DJ Mitchell,GD Phillips,Kuldeep Yadav,0,1,1,,,,,"",""
+ball,1,13.6,New Zealand,DJ Mitchell,GD Phillips,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,13.7,New Zealand,GD Phillips,DJ Mitchell,Kuldeep Yadav,1,0,,,,,,"",""
+ball,1,14.1,New Zealand,GD Phillips,DJ Mitchell,HH Pandya,0,0,,,,,,"",""
+ball,1,14.2,New Zealand,GD Phillips,DJ Mitchell,HH Pandya,1,0,,,,,,"",""
+ball,1,14.3,New Zealand,DJ Mitchell,GD Phillips,HH Pandya,4,0,,,,,,"",""
+ball,1,14.4,New Zealand,DJ Mitchell,GD Phillips,HH Pandya,0,0,,,,,,caught,DJ Mitchell
+ball,1,14.5,New Zealand,MJ Santner,GD Phillips,HH Pandya,0,0,,,,,,"",""
+ball,1,14.6,New Zealand,MJ Santner,GD Phillips,HH Pandya,0,0,,,,,,"",""
+ball,1,15.1,New Zealand,GD Phillips,MJ Santner,Ravi Bishnoi,0,0,,,,,,caught,GD Phillips
+ball,1,15.2,New Zealand,KA Jamieson,MJ Santner,Ravi Bishnoi,1,0,,,,,,"",""
+ball,1,15.3,New Zealand,MJ Santner,KA Jamieson,Ravi Bishnoi,2,0,,,,,,"",""
+ball,1,15.4,New Zealand,MJ Santner,KA Jamieson,Ravi Bishnoi,0,0,,,,,,"",""
+ball,1,15.5,New Zealand,MJ Santner,KA Jamieson,Ravi Bishnoi,4,0,,,,,,"",""
+ball,1,15.6,New Zealand,MJ Santner,KA Jamieson,Ravi Bishnoi,2,0,,,,,,"",""
+ball,1,16.1,New Zealand,KA Jamieson,MJ Santner,S Dube,1,0,,,,,,"",""
+ball,1,16.2,New Zealand,MJ Santner,KA Jamieson,S Dube,4,0,,,,,,"",""
+ball,1,16.3,New Zealand,MJ Santner,KA Jamieson,S Dube,1,0,,,,,,"",""
+ball,1,16.4,New Zealand,KA Jamieson,MJ Santner,S Dube,1,0,,,,,,"",""
+ball,1,16.5,New Zealand,MJ Santner,KA Jamieson,S Dube,0,0,,,,,,"",""
+ball,1,16.6,New Zealand,MJ Santner,KA Jamieson,S Dube,4,0,,,,,,"",""
+ball,1,17.1,New Zealand,KA Jamieson,MJ Santner,JJ Bumrah,0,0,,,,,,"",""
+ball,1,17.2,New Zealand,KA Jamieson,MJ Santner,JJ Bumrah,0,0,,,,,,bowled,KA Jamieson
+ball,1,17.3,New Zealand,MJ Henry,MJ Santner,JJ Bumrah,1,0,,,,,,"",""
+ball,1,17.4,New Zealand,MJ Santner,MJ Henry,JJ Bumrah,1,0,,,,,,run out,MJ Henry
+ball,1,17.5,New Zealand,MJ Santner,IS Sodhi,JJ Bumrah,1,0,,,,,,"",""
+ball,1,17.6,New Zealand,IS Sodhi,MJ Santner,JJ Bumrah,0,0,,,,,,"",""
+ball,1,18.1,New Zealand,MJ Santner,IS Sodhi,Harshit Rana,6,0,,,,,,"",""
+ball,1,18.2,New Zealand,MJ Santner,IS Sodhi,Harshit Rana,0,0,,,,,,"",""
+ball,1,18.3,New Zealand,MJ Santner,IS Sodhi,Harshit Rana,1,0,,,,,,"",""
+ball,1,18.4,New Zealand,IS Sodhi,MJ Santner,Harshit Rana,0,0,,,,,,"",""
+ball,1,18.5,New Zealand,IS Sodhi,MJ Santner,Harshit Rana,1,0,,,,,,"",""
+ball,1,18.6,New Zealand,MJ Santner,IS Sodhi,Harshit Rana,1,0,,,,,,"",""
+ball,1,19.1,New Zealand,MJ Santner,IS Sodhi,JJ Bumrah,0,0,,,,,,caught,MJ Santner
+ball,1,19.2,New Zealand,JA Duffy,IS Sodhi,JJ Bumrah,1,0,,,,,,"",""
+ball,1,19.3,New Zealand,IS Sodhi,JA Duffy,JJ Bumrah,0,4,,,,4,,"",""
+ball,1,19.4,New Zealand,IS Sodhi,JA Duffy,JJ Bumrah,1,0,,,,,,"",""
+ball,1,19.5,New Zealand,JA Duffy,IS Sodhi,JJ Bumrah,2,0,,,,,,"",""
+ball,1,19.6,New Zealand,JA Duffy,IS Sodhi,JJ Bumrah,1,0,,,,,,"",""
+ball,2,0.1,India,SV Samson,Abhishek Sharma,MJ Henry,0,0,,,,,,bowled,SV Samson
+ball,2,0.2,India,Ishan Kishan,Abhishek Sharma,MJ Henry,0,0,,,,,,"",""
+ball,2,0.3,India,Ishan Kishan,Abhishek Sharma,MJ Henry,6,0,,,,,,"",""
+ball,2,0.4,India,Ishan Kishan,Abhishek Sharma,MJ Henry,6,0,,,,,,"",""
+ball,2,0.5,India,Ishan Kishan,Abhishek Sharma,MJ Henry,4,0,,,,,,"",""
+ball,2,0.6,India,Ishan Kishan,Abhishek Sharma,MJ Henry,0,0,,,,,,"",""
+ball,2,1.1,India,Abhishek Sharma,Ishan Kishan,JA Duffy,6,0,,,,,,"",""
+ball,2,1.2,India,Abhishek Sharma,Ishan Kishan,JA Duffy,1,0,,,,,,"",""
+ball,2,1.3,India,Ishan Kishan,Abhishek Sharma,JA Duffy,4,0,,,,,,"",""
+ball,2,1.4,India,Ishan Kishan,Abhishek Sharma,JA Duffy,0,0,,,,,,"",""
+ball,2,1.5,India,Ishan Kishan,Abhishek Sharma,JA Duffy,1,0,,,,,,"",""
+ball,2,1.6,India,Abhishek Sharma,Ishan Kishan,JA Duffy,4,0,,,,,,"",""
+ball,2,2.1,India,Ishan Kishan,Abhishek Sharma,KA Jamieson,2,0,,,,,,"",""
+ball,2,2.2,India,Ishan Kishan,Abhishek Sharma,KA Jamieson,0,0,,,,,,"",""
+ball,2,2.3,India,Ishan Kishan,Abhishek Sharma,KA Jamieson,1,0,,,,,,"",""
+ball,2,2.4,India,Abhishek Sharma,Ishan Kishan,KA Jamieson,2,0,,,,,,"",""
+ball,2,2.5,India,Abhishek Sharma,Ishan Kishan,KA Jamieson,0,1,1,,,,,"",""
+ball,2,2.6,India,Abhishek Sharma,Ishan Kishan,KA Jamieson,4,0,,,,,,"",""
+ball,2,2.7,India,Abhishek Sharma,Ishan Kishan,KA Jamieson,0,1,1,,,,,"",""
+ball,2,2.8,India,Abhishek Sharma,Ishan Kishan,KA Jamieson,6,0,,,,,,"",""
+ball,2,3.1,India,Ishan Kishan,Abhishek Sharma,IS Sodhi,4,0,,,,,,"",""
+ball,2,3.2,India,Ishan Kishan,Abhishek Sharma,IS Sodhi,0,0,,,,,,caught,Ishan Kishan
+ball,2,3.3,India,SA Yadav,Abhishek Sharma,IS Sodhi,2,0,,,,,,"",""
+ball,2,3.4,India,SA Yadav,Abhishek Sharma,IS Sodhi,0,0,,,,,,"",""
+ball,2,3.5,India,SA Yadav,Abhishek Sharma,IS Sodhi,1,0,,,,,,"",""
+ball,2,3.6,India,Abhishek Sharma,SA Yadav,IS Sodhi,4,0,,,,,,"",""
+ball,2,4.1,India,SA Yadav,Abhishek Sharma,MJ Henry,2,0,,,,,,"",""
+ball,2,4.2,India,SA Yadav,Abhishek Sharma,MJ Henry,0,0,,,,,,"",""
+ball,2,4.3,India,SA Yadav,Abhishek Sharma,MJ Henry,1,0,,,,,,"",""
+ball,2,4.4,India,Abhishek Sharma,SA Yadav,MJ Henry,2,0,,,,,,"",""
+ball,2,4.5,India,Abhishek Sharma,SA Yadav,MJ Henry,6,0,,,,,,"",""
+ball,2,4.6,India,Abhishek Sharma,SA Yadav,MJ Henry,1,0,,,,,,"",""
+ball,2,5.1,India,Abhishek Sharma,SA Yadav,JA Duffy,4,0,,,,,,"",""
+ball,2,5.2,India,Abhishek Sharma,SA Yadav,JA Duffy,1,0,,,,,,"",""
+ball,2,5.3,India,SA Yadav,Abhishek Sharma,JA Duffy,6,0,,,,,,"",""
+ball,2,5.4,India,SA Yadav,Abhishek Sharma,JA Duffy,1,0,,,,,,"",""
+ball,2,5.5,India,Abhishek Sharma,SA Yadav,JA Duffy,4,0,,,,,,"",""
+ball,2,5.6,India,Abhishek Sharma,SA Yadav,JA Duffy,6,0,,,,,,"",""
+ball,2,6.1,India,SA Yadav,Abhishek Sharma,MJ Santner,4,0,,,,,,"",""
+ball,2,6.2,India,SA Yadav,Abhishek Sharma,MJ Santner,1,0,,,,,,"",""
+ball,2,6.3,India,Abhishek Sharma,SA Yadav,MJ Santner,1,0,,,,,,"",""
+ball,2,6.4,India,SA Yadav,Abhishek Sharma,MJ Santner,0,0,,,,,,"",""
+ball,2,6.5,India,SA Yadav,Abhishek Sharma,MJ Santner,1,0,,,,,,"",""
+ball,2,6.6,India,Abhishek Sharma,SA Yadav,MJ Santner,4,0,,,,,,"",""
+ball,2,7.1,India,SA Yadav,Abhishek Sharma,IS Sodhi,4,0,,,,,,"",""
+ball,2,7.2,India,SA Yadav,Abhishek Sharma,IS Sodhi,4,0,,,,,,"",""
+ball,2,7.3,India,SA Yadav,Abhishek Sharma,IS Sodhi,0,0,,,,,,"",""
+ball,2,7.4,India,SA Yadav,Abhishek Sharma,IS Sodhi,2,0,,,,,,"",""
+ball,2,7.5,India,SA Yadav,Abhishek Sharma,IS Sodhi,1,0,,,,,,"",""
+ball,2,7.6,India,Abhishek Sharma,SA Yadav,IS Sodhi,6,0,,,,,,"",""
+ball,2,8.1,India,SA Yadav,Abhishek Sharma,MJ Santner,1,0,,,,,,"",""
+ball,2,8.2,India,Abhishek Sharma,SA Yadav,MJ Santner,4,0,,,,,,"",""
+ball,2,8.3,India,Abhishek Sharma,SA Yadav,MJ Santner,1,0,,,,,,"",""
+ball,2,8.4,India,SA Yadav,Abhishek Sharma,MJ Santner,4,0,,,,,,"",""
+ball,2,8.5,India,SA Yadav,Abhishek Sharma,MJ Santner,6,0,,,,,,"",""
+ball,2,8.6,India,SA Yadav,Abhishek Sharma,MJ Santner,1,0,,,,,,"",""
+ball,2,9.1,India,SA Yadav,Abhishek Sharma,GD Phillips,0,0,,,,,,"",""
+ball,2,9.2,India,SA Yadav,Abhishek Sharma,GD Phillips,6,0,,,,,,"",""
+ball,2,9.3,India,SA Yadav,Abhishek Sharma,GD Phillips,1,0,,,,,,"",""
+ball,2,9.4,India,Abhishek Sharma,SA Yadav,GD Phillips,1,0,,,,,,"",""
+ball,2,9.5,India,SA Yadav,Abhishek Sharma,GD Phillips,4,0,,,,,,"",""
+ball,2,9.6,India,SA Yadav,Abhishek Sharma,GD Phillips,4,0,,,,,,"",""

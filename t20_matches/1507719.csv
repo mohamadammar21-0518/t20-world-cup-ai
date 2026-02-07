@@ -1,0 +1,266 @@
+version,1.7.0
+info,balls_per_over,6
+info,team,Sri Lanka
+info,team,England
+info,gender,male
+info,season,2025/26
+info,date,2026/01/30
+info,event,England tour of Sri Lanka
+info,match_number,1
+info,venue,Pallekele International Cricket Stadium
+info,city,Kandy
+info,toss_winner,England
+info,toss_decision,field
+info,player_of_match,AU Rashid
+info,umpire,RR Wimalasiri
+info,umpire,RA Kottahachchi
+info,reserve_umpire,IC Soysa
+info,tv_umpire,N Perera
+info,match_referee,V Narayan Kutty
+info,winner,England
+info,winner_runs,11
+info,method,D/L
+info,player,Sri Lanka,P Nissanka
+info,player,Sri Lanka,K Mishara
+info,player,Sri Lanka,BKG Mendis
+info,player,Sri Lanka,KIC Asalanka
+info,player,Sri Lanka,DM de Silva
+info,player,Sri Lanka,J Liyanage
+info,player,Sri Lanka,MD Shanaka
+info,player,Sri Lanka,PWH de Silva
+info,player,Sri Lanka,M Theekshana
+info,player,Sri Lanka,M Pathirana
+info,player,Sri Lanka,E Malinga
+info,player,England,PD Salt
+info,player,England,JC Buttler
+info,player,England,JG Bethell
+info,player,England,T Banton
+info,player,England,HC Brook
+info,player,England,SM Curran
+info,player,England,WG Jacks
+info,player,England,J Overton
+info,player,England,AU Rashid
+info,player,England,LA Dawson
+info,player,England,JC Archer
+info,registry,people,AU Rashid,249d60c9
+info,registry,people,BKG Mendis,5d1e7582
+info,registry,people,DM de Silva,7d608e12
+info,registry,people,DN Wellalage,736123bb
+info,registry,people,E Malinga,5750bcb4
+info,registry,people,HC Brook,4ae1755b
+info,registry,people,IC Soysa,717a7971
+info,registry,people,J Liyanage,84212ffb
+info,registry,people,J Overton,59559bc2
+info,registry,people,JC Archer,5574750c
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JG Bethell,3c55c703
+info,registry,people,K Mishara,65cebd5d
+info,registry,people,KIC Asalanka,732c038e
+info,registry,people,LA Dawson,4a461c24
+info,registry,people,M Pathirana,64839cb3
+info,registry,people,M Theekshana,f24c6701
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,N Perera,129709f9
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,PWH de Silva,a97c8ec2
+info,registry,people,RA Kottahachchi,808f2939
+info,registry,people,RR Wimalasiri,4950c8db
+info,registry,people,SM Curran,e94915e6
+info,registry,people,T Banton,25f7b7d6
+info,registry,people,V Narayan Kutty,4bacee3d
+info,registry,people,WG Jacks,9caf69a1
+ball,1,0.1,Sri Lanka,P Nissanka,K Mishara,SM Curran,0,1,,,,1,,"",""
+ball,1,0.2,Sri Lanka,K Mishara,P Nissanka,SM Curran,4,0,,,,,,"",""
+ball,1,0.3,Sri Lanka,K Mishara,P Nissanka,SM Curran,1,0,,,,,,"",""
+ball,1,0.4,Sri Lanka,P Nissanka,K Mishara,SM Curran,4,0,,,,,,"",""
+ball,1,0.5,Sri Lanka,P Nissanka,K Mishara,SM Curran,1,0,,,,,,"",""
+ball,1,0.6,Sri Lanka,K Mishara,P Nissanka,SM Curran,0,1,1,,,,,"",""
+ball,1,0.7,Sri Lanka,K Mishara,P Nissanka,SM Curran,4,0,,,,,,"",""
+ball,1,1.1,Sri Lanka,P Nissanka,K Mishara,JC Archer,0,0,,,,,,"",""
+ball,1,1.2,Sri Lanka,P Nissanka,K Mishara,JC Archer,1,0,,,,,,"",""
+ball,1,1.3,Sri Lanka,K Mishara,P Nissanka,JC Archer,0,0,,,,,,"",""
+ball,1,1.4,Sri Lanka,K Mishara,P Nissanka,JC Archer,0,0,,,,,,"",""
+ball,1,1.5,Sri Lanka,K Mishara,P Nissanka,JC Archer,1,0,,,,,,"",""
+ball,1,1.6,Sri Lanka,P Nissanka,K Mishara,JC Archer,0,0,,,,,,"",""
+ball,1,2.1,Sri Lanka,K Mishara,P Nissanka,J Overton,6,0,,,,,,"",""
+ball,1,2.2,Sri Lanka,K Mishara,P Nissanka,J Overton,0,0,,,,,,"",""
+ball,1,2.3,Sri Lanka,K Mishara,P Nissanka,J Overton,0,0,,,,,,caught,K Mishara
+ball,1,2.4,Sri Lanka,BKG Mendis,P Nissanka,J Overton,0,1,1,,,,,"",""
+ball,1,2.5,Sri Lanka,BKG Mendis,P Nissanka,J Overton,0,0,,,,,,"",""
+ball,1,2.6,Sri Lanka,BKG Mendis,P Nissanka,J Overton,0,0,,,,,,"",""
+ball,1,2.7,Sri Lanka,BKG Mendis,P Nissanka,J Overton,0,0,,,,,,"",""
+ball,1,3.1,Sri Lanka,P Nissanka,BKG Mendis,JC Archer,0,0,,,,,,"",""
+ball,1,3.2,Sri Lanka,P Nissanka,BKG Mendis,JC Archer,0,0,,,,,,"",""
+ball,1,3.3,Sri Lanka,P Nissanka,BKG Mendis,JC Archer,4,0,,,,,,"",""
+ball,1,3.4,Sri Lanka,P Nissanka,BKG Mendis,JC Archer,1,0,,,,,,"",""
+ball,1,3.5,Sri Lanka,BKG Mendis,P Nissanka,JC Archer,4,0,,,,,,"",""
+ball,1,3.6,Sri Lanka,BKG Mendis,P Nissanka,JC Archer,2,0,,,,,,"",""
+ball,1,4.1,Sri Lanka,P Nissanka,BKG Mendis,LA Dawson,0,0,,,,,,"",""
+ball,1,4.2,Sri Lanka,P Nissanka,BKG Mendis,LA Dawson,0,4,,,4,,,"",""
+ball,1,4.3,Sri Lanka,P Nissanka,BKG Mendis,LA Dawson,4,0,,,,,,"",""
+ball,1,4.4,Sri Lanka,P Nissanka,BKG Mendis,LA Dawson,0,0,,,,,,"",""
+ball,1,4.5,Sri Lanka,P Nissanka,BKG Mendis,LA Dawson,6,0,,,,,,"",""
+ball,1,4.6,Sri Lanka,P Nissanka,BKG Mendis,LA Dawson,0,0,,,,,,"",""
+ball,1,5.1,Sri Lanka,BKG Mendis,P Nissanka,AU Rashid,1,0,,,,,,"",""
+ball,1,5.2,Sri Lanka,P Nissanka,BKG Mendis,AU Rashid,0,0,,,,,,"",""
+ball,1,5.3,Sri Lanka,P Nissanka,BKG Mendis,AU Rashid,1,0,,,,,,"",""
+ball,1,5.4,Sri Lanka,BKG Mendis,P Nissanka,AU Rashid,1,0,,,,,,"",""
+ball,1,5.5,Sri Lanka,P Nissanka,BKG Mendis,AU Rashid,1,0,,,,,,"",""
+ball,1,5.6,Sri Lanka,BKG Mendis,P Nissanka,AU Rashid,1,0,,,,,,"",""
+ball,1,6.1,Sri Lanka,BKG Mendis,P Nissanka,SM Curran,4,0,,,,,,"",""
+ball,1,6.2,Sri Lanka,BKG Mendis,P Nissanka,SM Curran,0,0,,,,,,"",""
+ball,1,6.3,Sri Lanka,BKG Mendis,P Nissanka,SM Curran,4,0,,,,,,"",""
+ball,1,6.4,Sri Lanka,BKG Mendis,P Nissanka,SM Curran,6,0,,,,,,"",""
+ball,1,6.5,Sri Lanka,BKG Mendis,P Nissanka,SM Curran,0,0,,,,,,"",""
+ball,1,6.6,Sri Lanka,BKG Mendis,P Nissanka,SM Curran,6,0,,,,,,"",""
+ball,1,7.1,Sri Lanka,P Nissanka,BKG Mendis,AU Rashid,0,1,1,,,,,"",""
+ball,1,7.2,Sri Lanka,P Nissanka,BKG Mendis,AU Rashid,0,0,,,,,,caught,P Nissanka
+ball,1,7.3,Sri Lanka,KIC Asalanka,BKG Mendis,AU Rashid,0,0,,,,,,"",""
+ball,1,7.4,Sri Lanka,KIC Asalanka,BKG Mendis,AU Rashid,1,0,,,,,,"",""
+ball,1,7.5,Sri Lanka,BKG Mendis,KIC Asalanka,AU Rashid,1,0,,,,,,"",""
+ball,1,7.6,Sri Lanka,KIC Asalanka,BKG Mendis,AU Rashid,0,0,,,,,,"",""
+ball,1,7.7,Sri Lanka,KIC Asalanka,BKG Mendis,AU Rashid,1,0,,,,,,"",""
+ball,1,8.1,Sri Lanka,KIC Asalanka,BKG Mendis,LA Dawson,0,0,,,,,,caught,KIC Asalanka
+ball,1,8.2,Sri Lanka,DM de Silva,BKG Mendis,LA Dawson,1,0,,,,,,"",""
+ball,1,8.3,Sri Lanka,BKG Mendis,DM de Silva,LA Dawson,1,0,,,,,,"",""
+ball,1,8.4,Sri Lanka,DM de Silva,BKG Mendis,LA Dawson,1,0,,,,,,"",""
+ball,1,8.5,Sri Lanka,BKG Mendis,DM de Silva,LA Dawson,1,0,,,,,,"",""
+ball,1,8.6,Sri Lanka,DM de Silva,BKG Mendis,LA Dawson,0,0,,,,,,"",""
+ball,1,9.1,Sri Lanka,BKG Mendis,DM de Silva,AU Rashid,1,0,,,,,,"",""
+ball,1,9.2,Sri Lanka,DM de Silva,BKG Mendis,AU Rashid,1,0,,,,,,"",""
+ball,1,9.3,Sri Lanka,BKG Mendis,DM de Silva,AU Rashid,4,0,,,,,,"",""
+ball,1,9.4,Sri Lanka,BKG Mendis,DM de Silva,AU Rashid,0,0,,,,,,caught,BKG Mendis
+ball,1,9.5,Sri Lanka,J Liyanage,DM de Silva,AU Rashid,1,0,,,,,,"",""
+ball,1,9.6,Sri Lanka,DM de Silva,J Liyanage,AU Rashid,1,0,,,,,,"",""
+ball,1,10.1,Sri Lanka,DM de Silva,J Liyanage,LA Dawson,4,0,,,,,,"",""
+ball,1,10.2,Sri Lanka,DM de Silva,J Liyanage,LA Dawson,2,0,,,,,,"",""
+ball,1,10.3,Sri Lanka,DM de Silva,J Liyanage,LA Dawson,1,0,,,,,,"",""
+ball,1,10.4,Sri Lanka,J Liyanage,DM de Silva,LA Dawson,0,0,,,,,,lbw,J Liyanage
+ball,1,10.5,Sri Lanka,MD Shanaka,DM de Silva,LA Dawson,0,0,,,,,,"",""
+ball,1,10.6,Sri Lanka,MD Shanaka,DM de Silva,LA Dawson,0,0,,,,,,"",""
+ball,1,11.1,Sri Lanka,DM de Silva,MD Shanaka,AU Rashid,0,0,,,,,,"",""
+ball,1,11.2,Sri Lanka,DM de Silva,MD Shanaka,AU Rashid,0,0,,,,,,"",""
+ball,1,11.3,Sri Lanka,DM de Silva,MD Shanaka,AU Rashid,0,0,,,,,,"",""
+ball,1,11.4,Sri Lanka,DM de Silva,MD Shanaka,AU Rashid,0,0,,,,,,caught,DM de Silva
+ball,1,11.5,Sri Lanka,PWH de Silva,MD Shanaka,AU Rashid,1,0,,,,,,"",""
+ball,1,11.6,Sri Lanka,MD Shanaka,PWH de Silva,AU Rashid,1,0,,,,,,"",""
+ball,1,12.1,Sri Lanka,MD Shanaka,PWH de Silva,LA Dawson,0,0,,,,,,"",""
+ball,1,12.2,Sri Lanka,MD Shanaka,PWH de Silva,LA Dawson,1,0,,,,,,"",""
+ball,1,12.3,Sri Lanka,PWH de Silva,MD Shanaka,LA Dawson,1,0,,,,,,"",""
+ball,1,12.4,Sri Lanka,MD Shanaka,PWH de Silva,LA Dawson,6,0,,,,,,"",""
+ball,1,12.5,Sri Lanka,MD Shanaka,PWH de Silva,LA Dawson,1,0,,,,,,"",""
+ball,1,12.6,Sri Lanka,PWH de Silva,MD Shanaka,LA Dawson,1,0,,,,,,"",""
+ball,1,13.1,Sri Lanka,PWH de Silva,MD Shanaka,J Overton,0,0,,,,,,"",""
+ball,1,13.2,Sri Lanka,PWH de Silva,MD Shanaka,J Overton,0,0,,,,,,"",""
+ball,1,13.3,Sri Lanka,PWH de Silva,MD Shanaka,J Overton,1,0,,,,,,"",""
+ball,1,13.4,Sri Lanka,MD Shanaka,PWH de Silva,J Overton,1,0,,,,,,"",""
+ball,1,13.5,Sri Lanka,PWH de Silva,MD Shanaka,J Overton,4,0,,,,,,"",""
+ball,1,13.6,Sri Lanka,PWH de Silva,MD Shanaka,J Overton,0,0,,,,,,"",""
+ball,1,14.1,Sri Lanka,MD Shanaka,PWH de Silva,JC Archer,6,0,,,,,,"",""
+ball,1,14.2,Sri Lanka,MD Shanaka,PWH de Silva,JC Archer,0,0,,,,,,"",""
+ball,1,14.3,Sri Lanka,MD Shanaka,PWH de Silva,JC Archer,0,0,,,,,,"",""
+ball,1,14.4,Sri Lanka,MD Shanaka,PWH de Silva,JC Archer,1,0,,,,,,"",""
+ball,1,14.5,Sri Lanka,PWH de Silva,MD Shanaka,JC Archer,1,0,,,,,,"",""
+ball,1,14.6,Sri Lanka,MD Shanaka,PWH de Silva,JC Archer,1,0,,,,,,"",""
+ball,1,15.1,Sri Lanka,MD Shanaka,PWH de Silva,SM Curran,2,0,,,,,,"",""
+ball,1,15.2,Sri Lanka,MD Shanaka,PWH de Silva,SM Curran,0,1,,,,1,,"",""
+ball,1,15.3,Sri Lanka,PWH de Silva,MD Shanaka,SM Curran,1,0,,,,,,"",""
+ball,1,15.4,Sri Lanka,MD Shanaka,PWH de Silva,SM Curran,0,0,,,,,,caught,MD Shanaka
+ball,1,15.5,Sri Lanka,M Theekshana,PWH de Silva,SM Curran,0,0,,,,,,caught,M Theekshana
+ball,1,15.6,Sri Lanka,M Pathirana,PWH de Silva,SM Curran,0,0,,,,,,bowled,M Pathirana
+ball,1,16.1,Sri Lanka,PWH de Silva,E Malinga,J Overton,4,0,,,,,,"",""
+ball,1,16.2,Sri Lanka,PWH de Silva,E Malinga,J Overton,0,0,,,,,,bowled,PWH de Silva
+ball,2,0.1,England,PD Salt,JC Buttler,M Theekshana,6,0,,,,,,"",""
+ball,2,0.2,England,PD Salt,JC Buttler,M Theekshana,4,0,,,,,,"",""
+ball,2,0.3,England,PD Salt,JC Buttler,M Theekshana,4,0,,,,,,"",""
+ball,2,0.4,England,PD Salt,JC Buttler,M Theekshana,0,0,,,,,,"",""
+ball,2,0.5,England,PD Salt,JC Buttler,M Theekshana,0,0,,,,,,"",""
+ball,2,0.6,England,PD Salt,JC Buttler,M Theekshana,0,0,,,,,,"",""
+ball,2,1.1,England,JC Buttler,PD Salt,M Pathirana,0,0,,,,,,"",""
+ball,2,1.2,England,JC Buttler,PD Salt,M Pathirana,0,4,,,,4,,"",""
+ball,2,1.3,England,JC Buttler,PD Salt,M Pathirana,0,0,,,,,,"",""
+ball,2,1.4,England,JC Buttler,PD Salt,M Pathirana,0,0,,,,,,"",""
+ball,2,1.5,England,JC Buttler,PD Salt,M Pathirana,0,1,1,,,,,"",""
+ball,2,1.6,England,JC Buttler,PD Salt,M Pathirana,1,0,,,,,,"",""
+ball,2,1.7,England,PD Salt,JC Buttler,M Pathirana,0,0,,,,,,"",""
+ball,2,2.1,England,JC Buttler,PD Salt,E Malinga,4,0,,,,,,"",""
+ball,2,2.2,England,JC Buttler,PD Salt,E Malinga,4,0,,,,,,"",""
+ball,2,2.3,England,JC Buttler,PD Salt,E Malinga,4,0,,,,,,"",""
+ball,2,2.4,England,JC Buttler,PD Salt,E Malinga,4,0,,,,,,"",""
+ball,2,2.5,England,JC Buttler,PD Salt,E Malinga,0,0,,,,,,bowled,JC Buttler
+ball,2,2.6,England,JG Bethell,PD Salt,E Malinga,1,0,,,,,,"",""
+ball,2,3.1,England,JG Bethell,PD Salt,M Pathirana,4,0,,,,,,"",""
+ball,2,3.2,England,JG Bethell,PD Salt,M Pathirana,0,0,,,,,,"",""
+ball,2,3.3,England,JG Bethell,PD Salt,M Pathirana,0,0,,,,,,"",""
+ball,2,3.4,England,JG Bethell,PD Salt,M Pathirana,0,0,,,,,,"",""
+ball,2,3.5,England,JG Bethell,PD Salt,M Pathirana,0,0,,,,,,"",""
+ball,2,3.6,England,JG Bethell,PD Salt,M Pathirana,0,0,,,,,,"",""
+ball,2,4.1,England,PD Salt,JG Bethell,E Malinga,2,0,,,,,,"",""
+ball,2,4.2,England,PD Salt,JG Bethell,E Malinga,1,0,,,,,,"",""
+ball,2,4.3,England,JG Bethell,PD Salt,E Malinga,4,0,,,,,,"",""
+ball,2,4.4,England,JG Bethell,PD Salt,E Malinga,0,0,,,,,,"",""
+ball,2,4.5,England,JG Bethell,PD Salt,E Malinga,0,0,,,,,,"",""
+ball,2,4.6,England,JG Bethell,PD Salt,E Malinga,0,0,,,,,,caught,JG Bethell
+ball,2,5.1,England,PD Salt,T Banton,PWH de Silva,1,0,,,,,,"",""
+ball,2,5.2,England,T Banton,PD Salt,PWH de Silva,1,0,,,,,,"",""
+ball,2,5.3,England,PD Salt,T Banton,PWH de Silva,1,0,,,,,,"",""
+ball,2,5.4,England,T Banton,PD Salt,PWH de Silva,1,0,,,,,,"",""
+ball,2,5.5,England,PD Salt,T Banton,PWH de Silva,1,0,,,,,,"",""
+ball,2,5.6,England,T Banton,PD Salt,PWH de Silva,0,0,,,,,,"",""
+ball,2,6.1,England,PD Salt,T Banton,MD Shanaka,1,0,,,,,,"",""
+ball,2,6.2,England,T Banton,PD Salt,MD Shanaka,4,0,,,,,,"",""
+ball,2,6.3,England,T Banton,PD Salt,MD Shanaka,0,0,,,,,,"",""
+ball,2,6.4,England,T Banton,PD Salt,MD Shanaka,0,0,,,,,,"",""
+ball,2,6.5,England,T Banton,PD Salt,MD Shanaka,1,0,,,,,,"",""
+ball,2,6.6,England,PD Salt,T Banton,MD Shanaka,1,0,,,,,,"",""
+ball,2,7.1,England,PD Salt,T Banton,PWH de Silva,0,0,,,,,,"",""
+ball,2,7.2,England,PD Salt,T Banton,PWH de Silva,1,0,,,,,,"",""
+ball,2,7.3,England,T Banton,PD Salt,PWH de Silva,4,0,,,,,,"",""
+ball,2,7.4,England,T Banton,PD Salt,PWH de Silva,6,0,,,,,,"",""
+ball,2,7.5,England,T Banton,PD Salt,PWH de Silva,6,0,,,,,,"",""
+ball,2,7.6,England,T Banton,PD Salt,PWH de Silva,0,0,,,,,,"",""
+ball,2,8.1,England,PD Salt,T Banton,M Theekshana,1,0,,,,,,"",""
+ball,2,8.2,England,T Banton,PD Salt,M Theekshana,1,0,,,,,,"",""
+ball,2,8.3,England,PD Salt,T Banton,M Theekshana,1,0,,,,,,"",""
+ball,2,8.4,England,T Banton,PD Salt,M Theekshana,4,0,,,,,,"",""
+ball,2,8.5,England,T Banton,PD Salt,M Theekshana,1,0,,,,,,"",""
+ball,2,8.6,England,PD Salt,T Banton,M Theekshana,1,0,,,,,,"",""
+ball,2,9.1,England,PD Salt,T Banton,M Pathirana,1,0,,,,,,"",""
+ball,2,9.2,England,T Banton,PD Salt,M Pathirana,0,0,,,,,,caught,T Banton
+ball,2,9.3,England,HC Brook,PD Salt,M Pathirana,2,0,,,,,,"",""
+ball,2,9.4,England,HC Brook,PD Salt,M Pathirana,0,0,,,,,,"",""
+ball,2,9.5,England,HC Brook,PD Salt,M Pathirana,1,0,,,,,,"",""
+ball,2,9.6,England,PD Salt,HC Brook,M Pathirana,0,1,1,,,,,"",""
+ball,2,9.7,England,PD Salt,HC Brook,M Pathirana,0,1,1,,,,,"",""
+ball,2,9.8,England,PD Salt,HC Brook,M Pathirana,1,0,,,,,,"",""
+ball,2,10.1,England,PD Salt,HC Brook,PWH de Silva,2,0,,,,,,"",""
+ball,2,10.2,England,PD Salt,HC Brook,PWH de Silva,1,0,,,,,,"",""
+ball,2,10.3,England,HC Brook,PD Salt,PWH de Silva,0,0,,,,,,"",""
+ball,2,10.4,England,HC Brook,PD Salt,PWH de Silva,0,0,,,,,,"",""
+ball,2,10.5,England,HC Brook,PD Salt,PWH de Silva,1,0,,,,,,"",""
+ball,2,10.6,England,PD Salt,HC Brook,PWH de Silva,0,0,,,,,,"",""
+ball,2,11.1,England,HC Brook,PD Salt,M Theekshana,0,0,,,,,,"",""
+ball,2,11.2,England,HC Brook,PD Salt,M Theekshana,1,0,,,,,,"",""
+ball,2,11.3,England,PD Salt,HC Brook,M Theekshana,0,0,,,,,,"",""
+ball,2,11.4,England,PD Salt,HC Brook,M Theekshana,6,0,,,,,,"",""
+ball,2,11.5,England,PD Salt,HC Brook,M Theekshana,1,0,,,,,,"",""
+ball,2,11.6,England,HC Brook,PD Salt,M Theekshana,0,0,,,,,,"",""
+ball,2,12.1,England,PD Salt,HC Brook,PWH de Silva,1,0,,,,,,"",""
+ball,2,12.2,England,HC Brook,PD Salt,PWH de Silva,4,0,,,,,,"",""
+ball,2,12.3,England,HC Brook,PD Salt,PWH de Silva,1,0,,,,,,"",""
+ball,2,12.4,England,PD Salt,HC Brook,PWH de Silva,2,0,,,,,,"",""
+ball,2,12.5,England,PD Salt,HC Brook,PWH de Silva,1,0,,,,,,"",""
+ball,2,12.6,England,HC Brook,PD Salt,PWH de Silva,1,0,,,,,,"",""
+ball,2,13.1,England,HC Brook,PD Salt,M Pathirana,0,0,,,,,,"",""
+ball,2,13.2,England,HC Brook,PD Salt,M Pathirana,1,0,,,,,,"",""
+ball,2,13.3,England,PD Salt,HC Brook,M Pathirana,4,0,,,,,,"",""
+ball,2,13.4,England,PD Salt,HC Brook,M Pathirana,0,0,,,,,,"",""
+ball,2,13.5,England,PD Salt,HC Brook,M Pathirana,0,0,,,,,,"",""
+ball,2,13.6,England,PD Salt,HC Brook,M Pathirana,0,0,,,,,,"",""
+ball,2,14.1,England,HC Brook,PD Salt,MD Shanaka,0,0,,,,,,"",""
+ball,2,14.2,England,HC Brook,PD Salt,MD Shanaka,2,0,,,,,,"",""
+ball,2,14.3,England,HC Brook,PD Salt,MD Shanaka,1,0,,,,,,"",""
+ball,2,14.4,England,PD Salt,HC Brook,MD Shanaka,0,0,,,,,,caught,PD Salt
+ball,2,14.5,England,SM Curran,HC Brook,MD Shanaka,1,0,,,,,,"",""
+ball,2,14.6,England,HC Brook,SM Curran,MD Shanaka,1,0,,,,,,"",""

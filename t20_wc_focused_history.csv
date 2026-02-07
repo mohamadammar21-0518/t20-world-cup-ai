@@ -1,0 +1,715 @@
+date,venue,toss_winner,winner,team1,team2,toss_match_winner,venue_avg
+2018-01-03,Bay Oval,New Zealand,New Zealand,New Zealand,West Indies,1,0.6
+2018-01-22,Westpac Stadium,New Zealand,New Zealand,Pakistan,New Zealand,1,0.6
+2018-01-25,Eden Park,Pakistan,Pakistan,Pakistan,New Zealand,1,0.6
+2018-01-28,Bay Oval,Pakistan,Pakistan,Pakistan,New Zealand,1,0.6
+2018-02-03,Sydney Cricket Ground,Australia,Australia,New Zealand,Australia,1,0.6
+2018-02-07,Bellerive Oval,Australia,Australia,England,Australia,1,0.6
+2018-02-10,Melbourne Cricket Ground,Australia,Australia,England,Australia,1,0.6
+2018-02-13,Westpac Stadium,England,New Zealand,New Zealand,England,0,0.6
+2018-02-16,Eden Park,New Zealand,Australia,New Zealand,Australia,0,0.6
+2018-02-18,The Wanderers Stadium,South Africa,India,India,South Africa,0,0.6
+2018-02-18,Seddon Park,New Zealand,England,England,New Zealand,0,0.6
+2018-02-21,SuperSport Park,South Africa,South Africa,India,South Africa,1,0.6
+2018-02-21,Eden Park,New Zealand,Australia,New Zealand,Australia,0,0.6
+2018-02-24,Newlands,South Africa,India,India,South Africa,0,0.6
+2018-03-06,"""R.Premadasa Stadium",Sri Lanka,Sri Lanka,India,Sri Lanka,1,0.6
+2018-03-12,"""R.Premadasa Stadium",India,India,Sri Lanka,India,1,0.6
+2018-04-01,National Stadium,West Indies,Pakistan,Pakistan,West Indies,0,0.6
+2018-04-02,National Stadium,Pakistan,Pakistan,Pakistan,West Indies,1,0.6
+2018-04-03,National Stadium,West Indies,Pakistan,West Indies,Pakistan,0,0.6
+2018-06-12,Hazelaarweg,Ireland,Netherlands,Netherlands,Ireland,0,0.6
+2018-06-12,"""Grange Cricket Club",Pakistan,Pakistan,Pakistan,Scotland,1,0.6
+2018-06-13,"""Grange Cricket Club",Pakistan,Pakistan,Pakistan,Scotland,1,0.6
+2018-06-13,Hazelaarweg,Ireland,Netherlands,Ireland,Netherlands,0,0.6
+2018-06-16,Sportpark Het Schootsveld,Ireland,Ireland,Ireland,Scotland,1,0.6
+2018-06-19,VRA Ground,Netherlands,Scotland,Netherlands,Scotland,0,0.6
+2018-06-20,VRA Ground,Scotland,Scotland,Scotland,Netherlands,1,0.6
+2018-06-27,"""The Village",Ireland,India,India,Ireland,0,0.6
+2018-06-27,Edgbaston,Australia,England,England,Australia,0,0.6
+2018-06-29,"""The Village",Ireland,India,India,Ireland,0,0.6
+2018-07-01,Harare Sports Club,Zimbabwe,Pakistan,Pakistan,Zimbabwe,0,0.6
+2018-07-02,Harare Sports Club,Australia,Australia,Pakistan,Australia,1,0.6
+2018-07-03,Harare Sports Club,Zimbabwe,Australia,Australia,Zimbabwe,0,0.6
+2018-07-03,Old Trafford,India,India,England,India,1,0.6
+2018-07-04,Harare Sports Club,Pakistan,Pakistan,Zimbabwe,Pakistan,1,0.6
+2018-07-05,Harare Sports Club,Australia,Pakistan,Pakistan,Australia,0,0.6
+2018-07-06,Sophia Gardens,England,England,India,England,1,0.6
+2018-07-06,Harare Sports Club,Zimbabwe,Australia,Zimbabwe,Australia,0,0.6
+2018-07-08,County Ground,India,India,England,India,1,0.6
+2018-07-08,Harare Sports Club,Australia,Pakistan,Australia,Pakistan,0,0.6
+2018-08-14,"""R.Premadasa Stadium",South Africa,Sri Lanka,South Africa,Sri Lanka,0,0.6
+2018-10-09,Buffalo Park,South Africa,South Africa,South Africa,Zimbabwe,1,0.6
+2018-10-12,Senwes Park,Zimbabwe,South Africa,Zimbabwe,South Africa,0,0.6
+2018-10-22,Tolerance Oval,United Arab Emirates,Australia,United Arab Emirates,Australia,0,0.6
+2018-10-24,Sheikh Zayed Stadium,Australia,Pakistan,Pakistan,Australia,0,0.6
+2018-10-26,Dubai International Cricket Stadium,Pakistan,Pakistan,Pakistan,Australia,1,0.6
+2018-10-27,"""R.Premadasa Stadium",Sri Lanka,England,England,Sri Lanka,0,0.6
+2018-10-28,Dubai International Cricket Stadium,Pakistan,Pakistan,Pakistan,Australia,1,0.6
+2018-10-31,Sheikh Zayed Stadium,Pakistan,Pakistan,Pakistan,New Zealand,1,0.6
+2018-11-02,Dubai International Cricket Stadium,New Zealand,Pakistan,New Zealand,Pakistan,0,0.6
+2018-11-04,Eden Gardens,India,India,West Indies,India,1,0.6
+2018-11-04,Dubai International Cricket Stadium,Pakistan,Pakistan,Pakistan,New Zealand,1,0.6
+2018-11-06,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,West Indies,India,India,West Indies,0,0.6
+2018-11-11,"""MA Chidambaram Stadium",West Indies,India,West Indies,India,0,0.6
+2018-11-17,Carrara Oval,Australia,South Africa,South Africa,Australia,0,0.6
+2018-11-21,"""Brisbane Cricket Ground",India,Australia,Australia,India,0,0.6
+2018-11-25,Sydney Cricket Ground,Australia,India,Australia,India,0,0.6
+2019-01-11,Eden Park,Sri Lanka,New Zealand,New Zealand,Sri Lanka,0,0.6
+2019-01-31,ICC Academy,Nepal,United Arab Emirates,United Arab Emirates,Nepal,0,0.6
+2019-02-01,ICC Academy,United Arab Emirates,Nepal,United Arab Emirates,Nepal,0,0.6
+2019-02-01,Newlands,Pakistan,South Africa,South Africa,Pakistan,0,0.6
+2019-02-03,ICC Academy,United Arab Emirates,Nepal,United Arab Emirates,Nepal,0,0.6
+2019-02-03,The Wanderers Stadium,Pakistan,South Africa,South Africa,Pakistan,0,0.6
+2019-02-06,SuperSport Park,South Africa,Pakistan,South Africa,Pakistan,0,0.6
+2019-02-06,Westpac Stadium,India,New Zealand,New Zealand,India,0,0.6
+2019-02-08,Eden Park,New Zealand,India,New Zealand,India,0,0.6
+2019-02-10,Seddon Park,India,New Zealand,New Zealand,India,0,0.6
+2019-02-13,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Ireland,Oman,Ireland,0,0.6
+2019-02-13,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Netherlands,Netherlands,Netherlands,Scotland,1,0.6
+2019-02-15,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Netherlands,Netherlands,Oman,Netherlands,1,0.6
+2019-02-15,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Scotland,Scotland,Ireland,Scotland,1,0.6
+2019-02-17,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Scotland,Scotland,Oman,Scotland,1,0.6
+2019-02-17,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Ireland,Ireland,Ireland,Netherlands,1,0.6
+2019-02-24,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Australia,Australia,India,Australia,1,0.6
+2019-02-27,M.Chinnaswamy Stadium,Australia,Australia,India,Australia,1,0.6
+2019-03-05,"""Darren Sammy National Cricket Stadium",England,England,West Indies,England,1,0.6
+2019-03-08,"""Warner Park",West Indies,England,West Indies,England,0,0.6
+2019-03-10,"""Warner Park",West Indies,England,West Indies,England,0,0.6
+2019-03-22,SuperSport Park,Sri Lanka,South Africa,South Africa,Sri Lanka,0,0.6
+2019-03-24,The Wanderers Stadium,Sri Lanka,South Africa,South Africa,Sri Lanka,0,0.6
+2019-05-05,Sophia Gardens,Pakistan,England,England,Pakistan,0,0.6
+2019-06-23,Hazelaarweg,Zimbabwe,Netherlands,Netherlands,Zimbabwe,0,0.6
+2019-07-12,"""Bready Cricket Club",Ireland,Ireland,Ireland,Zimbabwe,1,0.6
+2019-07-14,Bready,Zimbabwe,Zimbabwe,Ireland,Zimbabwe,1,0.6
+2019-08-03,Central Broward Regional Park Stadium Turf Ground,India,India,India,West Indies,1,0.6
+2019-08-04,Central Broward Regional Park Stadium Turf Ground,India,India,India,West Indies,1,0.6
+2019-08-05,VRA Ground,United Arab Emirates,United Arab Emirates,Netherlands,United Arab Emirates,1,0.6
+2019-08-06,"""Providence Stadium",India,India,West Indies,India,1,0.6
+2019-08-08,Sportpark Westvliet,Netherlands,United Arab Emirates,Netherlands,United Arab Emirates,0,0.6
+2019-09-01,Pallekele International Cricket Stadium,Sri Lanka,New Zealand,Sri Lanka,New Zealand,0,0.6
+2019-09-03,Pallekele International Cricket Stadium,Sri Lanka,New Zealand,Sri Lanka,New Zealand,0,0.6
+2019-09-06,Pallekele International Cricket Stadium,Sri Lanka,Sri Lanka,Sri Lanka,New Zealand,1,0.6
+2019-09-16,"""The Village",Netherlands,Scotland,Netherlands,Scotland,0,0.6
+2019-09-17,"""The Village",Scotland,Ireland,Ireland,Scotland,0,0.6
+2019-09-18,"""Punjab Cricket Association IS Bindra Stadium",India,India,India,South Africa,1,0.6
+2019-09-18,"""The Village",Ireland,Netherlands,Ireland,Netherlands,0,0.6
+2019-09-19,"""The Village",Netherlands,Scotland,Netherlands,Scotland,0,0.6
+2019-09-22,M.Chinnaswamy Stadium,India,South Africa,India,South Africa,0,0.6
+2019-09-27,Indian Association Ground,Nepal,Zimbabwe,Nepal,Zimbabwe,0,0.6
+2019-10-01,Indian Association Ground,Nepal,Zimbabwe,Nepal,Zimbabwe,0,0.6
+2019-10-05,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Ireland,Ireland,Ireland,Netherlands,1,0.6
+2019-10-05,Gaddafi Stadium,Pakistan,Sri Lanka,Pakistan,Sri Lanka,0,0.6
+2019-10-06,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Ireland,Oman,Oman,Ireland,0,0.6
+2019-10-07,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Nepal,Nepal,Nepal,Netherlands,1,0.6
+2019-10-07,Gaddafi Stadium,Sri Lanka,Sri Lanka,Pakistan,Sri Lanka,1,0.6
+2019-10-09,Gaddafi Stadium,Sri Lanka,Sri Lanka,Pakistan,Sri Lanka,1,0.6
+2019-10-09,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Netherlands,Oman,Oman,Netherlands,0,0.6
+2019-10-09,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Ireland,Ireland,Ireland,Nepal,1,0.6
+2019-10-10,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Oman,Oman,Nepal,1,0.6
+2019-10-18,Sheikh Zayed Stadium,Oman,Oman,United Arab Emirates,Oman,1,0.6
+2019-10-19,ICC Academy,Netherlands,Netherlands,Namibia,Netherlands,1,0.6
+2019-10-19,Sheikh Zayed Stadium,United Arab Emirates,United Arab Emirates,United Arab Emirates,Ireland,1,0.6
+2019-10-21,Tolerance Oval,Oman,Ireland,Ireland,Oman,0,0.6
+2019-10-22,ICC Academy,Namibia,Namibia,Namibia,Scotland,1,0.6
+2019-10-23,Sheikh Zayed Stadium,Canada,Canada,Canada,Ireland,1,0.6
+2019-10-25,Sheikh Zayed Stadium,Canada,Oman,Canada,Oman,0,0.6
+2019-10-27,Dubai International Cricket Stadium,Netherlands,Netherlands,Netherlands,Scotland,1,0.6
+2019-10-27,Adelaide Oval,Sri Lanka,Australia,Australia,Sri Lanka,0,0.6
+2019-10-27,Sheikh Zayed Stadium,Canada,United Arab Emirates,United Arab Emirates,Canada,0,0.6
+2019-10-29,Dubai International Cricket Stadium,United Arab Emirates,Netherlands,United Arab Emirates,Netherlands,0,0.6
+2019-10-29,Dubai International Cricket Stadium,Namibia,Namibia,Namibia,Oman,1,0.6
+2019-10-30,Dubai International Cricket Stadium,Scotland,Scotland,United Arab Emirates,Scotland,1,0.6
+2019-10-30,"""Brisbane Cricket Ground",Sri Lanka,Australia,Australia,Sri Lanka,0,0.6
+2019-10-31,ICC Academy,Oman,Scotland,Oman,Scotland,0,0.6
+2019-11-01,Hagley Oval,England,England,New Zealand,England,1,0.6
+2019-11-01,Dubai International Cricket Stadium,Ireland,Netherlands,Ireland,Netherlands,0,0.6
+2019-11-01,Melbourne Cricket Ground,Australia,Australia,Australia,Sri Lanka,1,0.6
+2019-11-02,Dubai International Cricket Stadium,Ireland,Ireland,Ireland,Namibia,1,0.6
+2019-11-03,Westpac Stadium,England,New Zealand,New Zealand,England,0,0.6
+2019-11-05,Manuka Oval,Pakistan,Australia,Australia,Pakistan,0,0.6
+2019-11-05,Saxton Oval,New Zealand,New Zealand,New Zealand,England,1,0.6
+2019-11-08,Perth Stadium,Australia,Australia,Australia,Pakistan,1,0.6
+2019-11-08,McLean Park,New Zealand,England,New Zealand,England,0,0.6
+2019-12-06,"""Rajiv Gandhi International Stadium",India,India,India,West Indies,1,0.6
+2019-12-08,Greenfield International Stadium,West Indies,West Indies,India,West Indies,1,0.6
+2019-12-11,Wankhede Stadium,West Indies,India,India,West Indies,0,0.6
+2020-01-07,Holkar Cricket Stadium,India,India,India,Sri Lanka,1,0.6
+2020-01-10,Maharashtra Cricket Association Stadium,Sri Lanka,India,India,Sri Lanka,0,0.6
+2020-01-15,"""National Cricket Stadium",Ireland,Ireland,West Indies,Ireland,1,0.6
+2020-01-19,"""Warner Park",West Indies,West Indies,West Indies,Ireland,1,0.6
+2020-01-24,Eden Park,India,India,New Zealand,India,1,0.6
+2020-01-26,Eden Park,New Zealand,India,New Zealand,India,0,0.6
+2020-02-02,Bay Oval,India,India,New Zealand,India,1,0.6
+2020-02-12,Buffalo Park,England,South Africa,South Africa,England,0,0.6
+2020-02-14,Kingsmead,South Africa,England,South Africa,England,0,0.6
+2020-02-16,SuperSport Park,South Africa,England,South Africa,England,0,0.6
+2020-02-21,The Wanderers Stadium,South Africa,Australia,South Africa,Australia,0,0.6
+2020-02-23,St George's Park,South Africa,South Africa,South Africa,Australia,1,0.6
+2020-02-26,Newlands,South Africa,Australia,South Africa,Australia,0,0.6
+2020-03-04,Pallekele International Cricket Stadium,West Indies,West Indies,Sri Lanka,West Indies,1,0.6
+2020-03-06,Pallekele International Cricket Stadium,West Indies,West Indies,Sri Lanka,West Indies,1,0.6
+2020-08-30,Old Trafford,England,England,Pakistan,England,1,0.6
+2020-09-01,Old Trafford,England,Pakistan,Pakistan,England,0,0.6
+2020-09-04,The Rose Bowl,Australia,England,England,Australia,0,0.6
+2020-09-06,The Rose Bowl,Australia,England,Australia,England,0,0.6
+2020-09-08,The Rose Bowl,Australia,Australia,England,Australia,1,0.6
+2020-11-07,Rawalpindi Cricket Stadium,Zimbabwe,Pakistan,Zimbabwe,Pakistan,0,0.6
+2020-11-08,Rawalpindi Cricket Stadium,Pakistan,Pakistan,Zimbabwe,Pakistan,1,0.6
+2020-11-10,Rawalpindi Cricket Stadium,Zimbabwe,Pakistan,Zimbabwe,Pakistan,0,0.6
+2020-11-27,Newlands,England,England,South Africa,England,1,0.6
+2020-11-27,Eden Park,New Zealand,New Zealand,West Indies,New Zealand,1,0.6
+2020-11-29,Bay Oval,West Indies,New Zealand,New Zealand,West Indies,0,0.6
+2020-11-29,Boland Park,England,England,South Africa,England,1,0.6
+2020-12-01,Newlands,South Africa,England,South Africa,England,0,0.6
+2020-12-04,Manuka Oval,Australia,India,India,Australia,0,0.6
+2020-12-06,Sydney Cricket Ground,India,India,Australia,India,1,0.6
+2020-12-08,Sydney Cricket Ground,India,Australia,Australia,India,0,0.6
+2020-12-18,Eden Park,Pakistan,New Zealand,Pakistan,New Zealand,0,0.6
+2020-12-20,Seddon Park,Pakistan,New Zealand,Pakistan,New Zealand,0,0.6
+2020-12-22,McLean Park,Pakistan,Pakistan,New Zealand,Pakistan,1,0.6
+2021-02-11,Gaddafi Stadium,South Africa,Pakistan,Pakistan,South Africa,0,0.6
+2021-02-13,Gaddafi Stadium,South Africa,South Africa,Pakistan,South Africa,1,0.6
+2021-02-14,Gaddafi Stadium,Pakistan,Pakistan,South Africa,Pakistan,1,0.6
+2021-02-22,Hagley Oval,Australia,New Zealand,New Zealand,Australia,0,0.6
+2021-02-25,University Oval,Australia,New Zealand,New Zealand,Australia,0,0.6
+2021-03-03,Westpac Stadium,New Zealand,Australia,Australia,New Zealand,0,0.6
+2021-03-03,"""Coolidge Cricket Ground",West Indies,West Indies,Sri Lanka,West Indies,1,0.6
+2021-03-05,Westpac Stadium,Australia,Australia,Australia,New Zealand,1,0.6
+2021-03-05,"""Coolidge Cricket Ground",Sri Lanka,Sri Lanka,Sri Lanka,West Indies,1,0.6
+2021-03-07,"""Coolidge Cricket Ground",Sri Lanka,West Indies,Sri Lanka,West Indies,0,0.6
+2021-03-07,Sky Stadium,Australia,New Zealand,Australia,New Zealand,0,0.6
+2021-03-12,Narendra Modi Stadium,England,England,India,England,1,0.6
+2021-03-14,Narendra Modi Stadium,India,India,England,India,1,0.6
+2021-03-16,Narendra Modi Stadium,England,England,India,England,1,0.6
+2021-03-18,Narendra Modi Stadium,England,India,India,England,0,0.6
+2021-03-20,Narendra Modi Stadium,England,India,India,England,0,0.6
+2021-04-10,"""The Wanderers Stadium",South Africa,Pakistan,South Africa,Pakistan,0,0.6
+2021-04-12,"""The Wanderers Stadium",Pakistan,South Africa,Pakistan,South Africa,0,0.6
+2021-04-14,"""SuperSport Park",Pakistan,Pakistan,South Africa,Pakistan,1,0.6
+2021-04-16,"""SuperSport Park",Pakistan,Pakistan,South Africa,Pakistan,1,0.6
+2021-04-17,"""Tribhuvan University International Cricket Ground",Nepal,Nepal,Netherlands,Nepal,1,0.6
+2021-04-20,"""Tribhuvan University International Cricket Ground",Nepal,Netherlands,Nepal,Netherlands,0,0.6
+2021-04-21,Harare Sports Club,Zimbabwe,Pakistan,Pakistan,Zimbabwe,0,0.6
+2021-04-23,Harare Sports Club,Pakistan,Zimbabwe,Zimbabwe,Pakistan,0,0.6
+2021-04-24,"""Tribhuvan University International Cricket Ground",Netherlands,Nepal,Nepal,Netherlands,0,0.6
+2021-04-25,Harare Sports Club,Pakistan,Pakistan,Pakistan,Zimbabwe,1,0.6
+2021-06-23,"""Sophia Gardens",Sri Lanka,England,Sri Lanka,England,0,0.6
+2021-06-24,"""Sophia Gardens",Sri Lanka,England,Sri Lanka,England,0,0.6
+2021-06-26,"""The Rose Bowl",Sri Lanka,England,England,Sri Lanka,0,0.6
+2021-06-26,"""National Cricket Stadium",West Indies,West Indies,South Africa,West Indies,1,0.6
+2021-06-27,"""National Cricket Stadium",West Indies,South Africa,South Africa,West Indies,0,0.6
+2021-06-29,"""National Cricket Stadium",West Indies,South Africa,South Africa,West Indies,0,0.6
+2021-07-01,"""National Cricket Stadium",South Africa,West Indies,West Indies,South Africa,0,0.6
+2021-07-03,"""National Cricket Stadium",South Africa,South Africa,South Africa,West Indies,1,0.6
+2021-07-09,"""Daren Sammy National Cricket Stadium",Australia,West Indies,West Indies,Australia,0,0.6
+2021-07-10,"""Daren Sammy National Cricket Stadium",Australia,West Indies,West Indies,Australia,0,0.6
+2021-07-12,"""Daren Sammy National Cricket Stadium",Australia,West Indies,Australia,West Indies,0,0.6
+2021-07-14,"""Daren Sammy National Cricket Stadium",Australia,Australia,Australia,West Indies,1,0.6
+2021-07-16,"""Trent Bridge",England,Pakistan,Pakistan,England,0,0.6
+2021-07-16,"""Daren Sammy National Cricket Stadium",West Indies,West Indies,West Indies,Australia,1,0.6
+2021-07-18,"""Headingley",Pakistan,England,England,Pakistan,0,0.6
+2021-07-19,"""The Village",Ireland,South Africa,South Africa,Ireland,0,0.6
+2021-07-20,"""Old Trafford",Pakistan,England,Pakistan,England,0,0.6
+2021-07-22,"""Civil Service Cricket Club",South Africa,South Africa,South Africa,Ireland,1,0.6
+2021-07-24,"""Civil Service Cricket Club",South Africa,South Africa,South Africa,Ireland,1,0.6
+2021-07-25,"""R Premadasa Stadium",Sri Lanka,India,India,Sri Lanka,0,0.6
+2021-07-28,"""R Premadasa Stadium",Sri Lanka,Sri Lanka,India,Sri Lanka,1,0.6
+2021-07-29,"""R Premadasa Stadium",India,Sri Lanka,India,Sri Lanka,0,0.6
+2021-07-31,"""Providence Stadium",West Indies,Pakistan,Pakistan,West Indies,0,0.6
+2021-08-27,"""Castle Avenue",Ireland,Zimbabwe,Zimbabwe,Ireland,0,0.6
+2021-08-29,"""Castle Avenue",Zimbabwe,Ireland,Zimbabwe,Ireland,0,0.6
+2021-09-01,"""Bready Cricket Club",Zimbabwe,Ireland,Ireland,Zimbabwe,0,0.6
+2021-09-02,"""Bready Cricket Club",Zimbabwe,Ireland,Ireland,Zimbabwe,0,0.6
+2021-09-04,"""Bready Cricket Club",Zimbabwe,Zimbabwe,Zimbabwe,Ireland,1,0.6
+2021-09-10,"""R Premadasa Stadium",South Africa,South Africa,South Africa,Sri Lanka,1,0.6
+2021-09-12,"""R Premadasa Stadium",Sri Lanka,South Africa,Sri Lanka,South Africa,0,0.6
+2021-09-14,"""R Premadasa Stadium",Sri Lanka,South Africa,Sri Lanka,South Africa,0,0.6
+2021-09-15,"""Grange Cricket Club Ground",Scotland,Scotland,Scotland,Zimbabwe,1,0.6
+2021-09-17,"""Grange Cricket Club Ground",Zimbabwe,Zimbabwe,Zimbabwe,Scotland,1,0.6
+2021-09-19,"""Grange Cricket Club Ground",Scotland,Zimbabwe,Scotland,Zimbabwe,0,0.6
+2021-10-07,"""ICC Academy",United Arab Emirates,Ireland,United Arab Emirates,Ireland,0,0.6
+2021-10-08,"""ICC Academy",Ireland,United Arab Emirates,United Arab Emirates,Ireland,0,0.6
+2021-10-09,"""ICC Academy",Namibia,Namibia,Scotland,Namibia,1,0.6
+2021-10-10,"""ICC Academy",United Arab Emirates,United Arab Emirates,Ireland,United Arab Emirates,1,0.6
+2021-10-18,"""Zayed Cricket Stadium",Sri Lanka,Sri Lanka,Namibia,Sri Lanka,1,0.6
+2021-10-18,"""Zayed Cricket Stadium",Netherlands,Ireland,Netherlands,Ireland,0,0.6
+2021-10-20,"""Zayed Cricket Stadium",Namibia,Namibia,Netherlands,Namibia,1,0.6
+2021-10-20,"""Zayed Cricket Stadium",Ireland,Sri Lanka,Sri Lanka,Ireland,0,0.6
+2021-10-21,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Scotland,Oman,Scotland,0,0.6
+2021-10-22,Sharjah Cricket Stadium,Ireland,Namibia,Ireland,Namibia,0,0.6
+2021-10-22,Sharjah Cricket Stadium,Sri Lanka,Sri Lanka,Netherlands,Sri Lanka,1,0.6
+2021-10-23,"""Zayed Cricket Stadium",Australia,Australia,South Africa,Australia,1,0.6
+2021-10-23,Dubai International Cricket Stadium,England,England,West Indies,England,1,0.6
+2021-10-24,Dubai International Cricket Stadium,Pakistan,Pakistan,India,Pakistan,1,0.6
+2021-10-26,Sharjah Cricket Stadium,Pakistan,Pakistan,New Zealand,Pakistan,1,0.6
+2021-10-26,Dubai International Cricket Stadium,South Africa,South Africa,West Indies,South Africa,1,0.6
+2021-10-27,"""Zayed Cricket Stadium",Namibia,Namibia,Scotland,Namibia,1,0.6
+2021-10-28,Dubai International Cricket Stadium,Australia,Australia,Sri Lanka,Australia,1,0.6
+2021-10-30,Sharjah Cricket Stadium,South Africa,South Africa,Sri Lanka,South Africa,1,0.6
+2021-10-30,Dubai International Cricket Stadium,England,England,Australia,England,1,0.6
+2021-10-31,Dubai International Cricket Stadium,New Zealand,New Zealand,India,New Zealand,1,0.6
+2021-11-01,Sharjah Cricket Stadium,Sri Lanka,England,England,Sri Lanka,0,0.6
+2021-11-02,"""Zayed Cricket Stadium",Pakistan,Pakistan,Pakistan,Namibia,1,0.6
+2021-11-03,Dubai International Cricket Stadium,Scotland,New Zealand,New Zealand,Scotland,0,0.6
+2021-11-04,"""Zayed Cricket Stadium",West Indies,Sri Lanka,Sri Lanka,West Indies,0,0.6
+2021-11-05,Dubai International Cricket Stadium,India,India,Scotland,India,1,0.6
+2021-11-05,Sharjah Cricket Stadium,Namibia,New Zealand,New Zealand,Namibia,0,0.6
+2021-11-06,Sharjah Cricket Stadium,England,South Africa,South Africa,England,0,0.6
+2021-11-06,"""Zayed Cricket Stadium",Australia,Australia,West Indies,Australia,1,0.6
+2021-11-07,Sharjah Cricket Stadium,Pakistan,Pakistan,Pakistan,Scotland,1,0.6
+2021-11-08,Dubai International Cricket Stadium,India,India,Namibia,India,1,0.6
+2021-11-10,"""Zayed Cricket Stadium",New Zealand,New Zealand,England,New Zealand,1,0.6
+2021-11-11,Dubai International Cricket Stadium,Australia,Australia,Pakistan,Australia,1,0.6
+2021-11-14,Dubai International Cricket Stadium,Australia,Australia,New Zealand,Australia,1,0.6
+2021-11-17,"""Sawai Mansingh Stadium",India,India,New Zealand,India,1,0.6
+2021-11-19,"""JSCA International Stadium Complex",India,India,New Zealand,India,1,0.6
+2021-11-21,"""Eden Gardens",India,India,India,New Zealand,1,0.6
+2021-12-13,"""National Stadium",West Indies,Pakistan,Pakistan,West Indies,0,0.6
+2021-12-14,"""National Stadium",Pakistan,Pakistan,Pakistan,West Indies,1,0.6
+2021-12-16,"""National Stadium",West Indies,Pakistan,West Indies,Pakistan,0,0.6
+2022-01-22,"""Kensington Oval",West Indies,West Indies,England,West Indies,1,0.6
+2022-01-23,"""Kensington Oval",West Indies,England,England,West Indies,0,0.6
+2022-01-26,"""Kensington Oval",England,West Indies,West Indies,England,0,0.6
+2022-01-29,"""Kensington Oval",West Indies,England,England,West Indies,0,0.6
+2022-01-30,"""Kensington Oval",West Indies,West Indies,West Indies,England,1,0.6
+2022-02-11,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Nepal,Nepal,Oman,Nepal,1,0.6
+2022-02-11,Sydney Cricket Ground,Sri Lanka,Australia,Australia,Sri Lanka,0,0.6
+2022-02-12,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Nepal,United Arab Emirates,United Arab Emirates,Nepal,0,0.6
+2022-02-12,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Ireland,Ireland,Oman,Ireland,1,0.6
+2022-02-13,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Ireland,United Arab Emirates,United Arab Emirates,Ireland,0,0.6
+2022-02-14,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Nepal,Ireland,Ireland,Nepal,0,0.6
+2022-02-14,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Oman,United Arab Emirates,Oman,1,0.6
+2022-02-15,"""Manuka Oval",Australia,Australia,Sri Lanka,Australia,1,0.6
+2022-02-16,"""Eden Gardens",India,India,West Indies,India,1,0.6
+2022-02-18,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United Arab Emirates,United Arab Emirates,United Arab Emirates,Ireland,1,0.6
+2022-02-18,Melbourne Cricket Ground,Australia,Australia,Sri Lanka,Australia,1,0.6
+2022-02-18,"""Eden Gardens",West Indies,India,India,West Indies,0,0.6
+2022-02-18,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Nepal,Nepal,Oman,0,0.6
+2022-02-19,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Oman,Canada,Oman,1,0.6
+2022-02-20,"""Eden Gardens",West Indies,India,India,West Indies,0,0.6
+2022-02-20,Melbourne Cricket Ground,Australia,Sri Lanka,Australia,Sri Lanka,0,0.6
+2022-02-21,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Canada,Nepal,Canada,Nepal,0,0.6
+2022-02-22,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Oman,Ireland,Ireland,Oman,0,0.6
+2022-02-22,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United Arab Emirates,United Arab Emirates,United Arab Emirates,Nepal,1,0.6
+2022-02-24,"""Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",Sri Lanka,India,India,Sri Lanka,0,0.6
+2022-02-24,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),Oman,Nepal,Oman,Nepal,0,0.6
+2022-02-24,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Ireland,United Arab Emirates,Ireland,United Arab Emirates,0,0.6
+2022-02-26,"""Himachal Pradesh Cricket Association Stadium",India,India,Sri Lanka,India,1,0.6
+2022-02-27,"""Himachal Pradesh Cricket Association Stadium",Sri Lanka,India,Sri Lanka,India,0,0.6
+2022-04-05,"""Gaddafi Stadium",Australia,Australia,Pakistan,Australia,1,0.6
+2022-05-17,"""Queens Sports Club",Zimbabwe,Zimbabwe,Zimbabwe,Namibia,1,0.6
+2022-05-19,"""Queens Sports Club",Zimbabwe,Namibia,Zimbabwe,Namibia,0,0.6
+2022-05-21,"""Queens Sports Club",Namibia,Zimbabwe,Namibia,Zimbabwe,0,0.6
+2022-05-22,"""Queens Sports Club",Namibia,Namibia,Zimbabwe,Namibia,1,0.6
+2022-05-24,"""Queens Sports Club",Zimbabwe,Namibia,Namibia,Zimbabwe,0,0.6
+2022-06-07,"""R Premadasa Stadium",Australia,Australia,Sri Lanka,Australia,1,0.6
+2022-06-08,"""R Premadasa Stadium",Australia,Australia,Sri Lanka,Australia,1,0.6
+2022-06-09,"""Arun Jaitley Stadium",South Africa,South Africa,India,South Africa,1,0.6
+2022-06-11,Pallekele International Cricket Stadium,Australia,Sri Lanka,Australia,Sri Lanka,0,0.6
+2022-06-12,"""Barabati Stadium",South Africa,South Africa,India,South Africa,1,0.6
+2022-06-14,"""Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",South Africa,India,India,South Africa,0,0.6
+2022-06-17,"""Saurashtra Cricket Association Stadium",South Africa,India,India,South Africa,0,0.6
+2022-06-26,"""The Village",India,India,Ireland,India,1,0.6
+2022-06-28,"""The Village",India,India,India,Ireland,1,0.6
+2022-07-07,"""The Rose Bowl",India,India,India,England,1,0.6
+2022-07-09,"""Edgbaston",England,India,India,England,0,0.6
+2022-07-10,"""Trent Bridge",England,England,England,India,1,0.6
+2022-07-17,"""Queens Sports Club",Zimbabwe,Zimbabwe,Zimbabwe,Netherlands,1,0.6
+2022-07-18,"""Civil Service Cricket Club",Ireland,New Zealand,New Zealand,Ireland,0,0.6
+2022-07-20,"""Civil Service Cricket Club",Ireland,New Zealand,New Zealand,Ireland,0,0.6
+2022-07-22,"""Civil Service Cricket Club",Ireland,New Zealand,Ireland,New Zealand,0,0.6
+2022-07-27,"""Grange Cricket Club Ground",Scotland,New Zealand,New Zealand,Scotland,0,0.6
+2022-07-27,"""County Ground",South Africa,England,England,South Africa,0,0.6
+2022-07-28,"""Sophia Gardens",England,South Africa,South Africa,England,0,0.6
+2022-07-29,"""Brian Lara Stadium",West Indies,India,India,West Indies,0,0.6
+2022-07-29,"""Grange Cricket Club Ground",New Zealand,New Zealand,New Zealand,Scotland,1,0.6
+2022-07-31,"""The Rose Bowl",England,South Africa,South Africa,England,0,0.6
+2022-08-01,"""Warner Park",West Indies,West Indies,India,West Indies,1,0.6
+2022-08-02,"""Warner Park",India,India,West Indies,India,1,0.6
+2022-08-03,"""County Ground",South Africa,South Africa,South Africa,Ireland,1,0.6
+2022-08-04,"""Sportpark Westvliet",New Zealand,New Zealand,New Zealand,Netherlands,1,0.6
+2022-08-05,"""Sportpark Westvliet",Netherlands,New Zealand,Netherlands,New Zealand,0,0.6
+2022-08-05,"""County Ground",Ireland,South Africa,South Africa,Ireland,0,0.6
+2022-08-06,"""Central Broward Regional Park Stadium Turf Ground",West Indies,India,India,West Indies,0,0.6
+2022-08-07,"""Central Broward Regional Park Stadium Turf Ground",India,India,India,West Indies,1,0.6
+2022-08-10,"""Sabina Park",West Indies,New Zealand,New Zealand,West Indies,0,0.6
+2022-08-12,"""Sabina Park",New Zealand,New Zealand,New Zealand,West Indies,1,0.6
+2022-08-14,"""Sabina Park",New Zealand,West Indies,New Zealand,West Indies,0,0.6
+2022-08-28,Dubai International Cricket Stadium,India,India,Pakistan,India,1,0.6
+2022-09-04,Dubai International Cricket Stadium,Pakistan,Pakistan,India,Pakistan,1,0.6
+2022-09-06,Dubai International Cricket Stadium,Sri Lanka,Sri Lanka,India,Sri Lanka,1,0.6
+2022-09-09,Dubai International Cricket Stadium,Sri Lanka,Sri Lanka,Pakistan,Sri Lanka,1,0.6
+2022-09-11,Dubai International Cricket Stadium,Pakistan,Sri Lanka,Sri Lanka,Pakistan,0,0.6
+2022-09-20,"""Punjab Cricket Association IS Bindra Stadium",Australia,Australia,India,Australia,1,0.6
+2022-09-20,"""National Stadium",England,England,Pakistan,England,1,0.6
+2022-09-22,"""National Stadium",England,Pakistan,England,Pakistan,0,0.6
+2022-09-23,"""Vidarbha Cricket Association Stadium",India,India,Australia,India,1,0.6
+2022-09-23,"""National Stadium",Pakistan,England,England,Pakistan,0,0.6
+2022-09-25,"""National Stadium",England,Pakistan,Pakistan,England,0,0.6
+2022-09-25,"""Rajiv Gandhi International Stadium",India,India,Australia,India,1,0.6
+2022-09-28,"""Gaddafi Stadium",England,Pakistan,Pakistan,England,0,0.6
+2022-09-28,"""Greenfield International Stadium",India,India,South Africa,India,1,0.6
+2022-09-30,"""Gaddafi Stadium",England,England,Pakistan,England,1,0.6
+2022-10-02,"""Barsapara Cricket Stadium",South Africa,India,India,South Africa,0,0.6
+2022-10-02,"""Gaddafi Stadium",Pakistan,England,England,Pakistan,0,0.6
+2022-10-04,"""Holkar Cricket Stadium",India,South Africa,South Africa,India,0,0.6
+2022-10-05,Carrara Oval,Australia,Australia,West Indies,Australia,1,0.6
+2022-10-07,"""Brisbane Cricket Ground",West Indies,Australia,Australia,West Indies,0,0.6
+2022-10-08,"""Hagley Oval",New Zealand,Pakistan,New Zealand,Pakistan,0,0.6
+2022-10-09,Perth Stadium,Australia,England,England,Australia,0,0.6
+2022-10-11,"""Hagley Oval",Pakistan,New Zealand,Pakistan,New Zealand,0,0.6
+2022-10-12,"""Manuka Oval",Australia,England,England,Australia,0,0.6
+2022-10-14,"""Hagley Oval",Pakistan,Pakistan,New Zealand,Pakistan,1,0.6
+2022-10-16,"""GMHBA Stadium",United Arab Emirates,Netherlands,United Arab Emirates,Netherlands,0,0.6
+2022-10-16,"""GMHBA Stadium",Sri Lanka,Namibia,Namibia,Sri Lanka,0,0.6
+2022-10-17,"""Bellerive Oval",West Indies,Scotland,Scotland,West Indies,0,0.6
+2022-10-17,"""Bellerive Oval",Ireland,Zimbabwe,Zimbabwe,Ireland,0,0.6
+2022-10-18,"""GMHBA Stadium",Namibia,Netherlands,Namibia,Netherlands,0,0.6
+2022-10-18,"""GMHBA Stadium",United Arab Emirates,Sri Lanka,Sri Lanka,United Arab Emirates,0,0.6
+2022-10-19,"""Bellerive Oval",Scotland,Ireland,Scotland,Ireland,0,0.6
+2022-10-19,"""Bellerive Oval",West Indies,West Indies,West Indies,Zimbabwe,1,0.6
+2022-10-20,"""GMHBA Stadium",United Arab Emirates,United Arab Emirates,United Arab Emirates,Namibia,1,0.6
+2022-10-20,"""GMHBA Stadium",Sri Lanka,Sri Lanka,Sri Lanka,Netherlands,1,0.6
+2022-10-21,"""Bellerive Oval",Scotland,Zimbabwe,Scotland,Zimbabwe,0,0.6
+2022-10-21,"""Bellerive Oval",West Indies,Ireland,West Indies,Ireland,0,0.6
+2022-10-22,Sydney Cricket Ground,Australia,New Zealand,New Zealand,Australia,0,0.6
+2022-10-23,Melbourne Cricket Ground,India,India,Pakistan,India,1,0.6
+2022-10-23,"""Bellerive Oval",Ireland,Sri Lanka,Ireland,Sri Lanka,0,0.6
+2022-10-25,Perth Stadium,Australia,Australia,Sri Lanka,Australia,1,0.6
+2022-10-26,Melbourne Cricket Ground,England,Ireland,Ireland,England,0,0.6
+2022-10-27,Sydney Cricket Ground,India,India,India,Netherlands,1,0.6
+2022-10-27,Perth Stadium,Zimbabwe,Zimbabwe,Zimbabwe,Pakistan,1,0.6
+2022-10-29,Sydney Cricket Ground,New Zealand,New Zealand,New Zealand,Sri Lanka,1,0.6
+2022-10-30,Perth Stadium,Netherlands,Pakistan,Netherlands,Pakistan,0,0.6
+2022-10-30,Perth Stadium,India,South Africa,India,South Africa,0,0.6
+2022-10-31,"""Brisbane Cricket Ground",Ireland,Australia,Australia,Ireland,0,0.6
+2022-11-01,"""Brisbane Cricket Ground",England,England,England,New Zealand,1,0.6
+2022-11-02,Adelaide Oval,Zimbabwe,Netherlands,Zimbabwe,Netherlands,0,0.6
+2022-11-03,Sydney Cricket Ground,Pakistan,Pakistan,Pakistan,South Africa,1,0.6
+2022-11-04,Adelaide Oval,Ireland,New Zealand,New Zealand,Ireland,0,0.6
+2022-11-05,Sydney Cricket Ground,Sri Lanka,England,Sri Lanka,England,0,0.6
+2022-11-06,Melbourne Cricket Ground,India,India,India,Zimbabwe,1,0.6
+2022-11-06,Adelaide Oval,South Africa,Netherlands,Netherlands,South Africa,0,0.6
+2022-11-09,Sydney Cricket Ground,New Zealand,Pakistan,New Zealand,Pakistan,0,0.6
+2022-11-10,Adelaide Oval,England,England,India,England,1,0.6
+2022-11-13,Melbourne Cricket Ground,England,England,Pakistan,England,1,0.6
+2022-11-16,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Canada,Canada,Oman,0,0.6
+2022-11-20,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Canada,Canada,Oman,Canada,1,0.6
+2022-11-20,"""Bay Oval",New Zealand,India,India,New Zealand,0,0.6
+2022-11-21,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Canada,Canada,Oman,Canada,1,0.6
+2023-01-03,"""Wankhede Stadium",Sri Lanka,India,India,Sri Lanka,0,0.6
+2023-01-05,"""Maharashtra Cricket Association Stadium",India,Sri Lanka,Sri Lanka,India,0,0.6
+2023-01-07,"""Saurashtra Cricket Association Stadium",India,India,India,Sri Lanka,1,0.6
+2023-01-12,Harare Sports Club,Zimbabwe,Zimbabwe,Ireland,Zimbabwe,1,0.6
+2023-01-14,Harare Sports Club,Ireland,Ireland,Zimbabwe,Ireland,1,0.6
+2023-01-15,Harare Sports Club,Zimbabwe,Zimbabwe,Ireland,Zimbabwe,1,0.6
+2023-01-27,"""JSCA International Stadium Complex",India,New Zealand,New Zealand,India,0,0.6
+2023-01-29,"""Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",New Zealand,India,New Zealand,India,0,0.6
+2023-02-01,"""Narendra Modi Stadium",India,India,India,New Zealand,1,0.6
+2023-03-25,"""SuperSport Park",West Indies,West Indies,South Africa,West Indies,1,0.6
+2023-03-26,"""SuperSport Park",South Africa,South Africa,West Indies,South Africa,1,0.6
+2023-03-28,"""The Wanderers Stadium",South Africa,West Indies,West Indies,South Africa,0,0.6
+2023-04-05,"""University Oval",New Zealand,New Zealand,Sri Lanka,New Zealand,1,0.6
+2023-04-08,"""John Davies Oval",New Zealand,New Zealand,Sri Lanka,New Zealand,1,0.6
+2023-04-14,"""Gaddafi Stadium",Pakistan,Pakistan,Pakistan,New Zealand,1,0.6
+2023-04-15,"""Gaddafi Stadium",Pakistan,Pakistan,Pakistan,New Zealand,1,0.6
+2023-04-17,"""Gaddafi Stadium",New Zealand,New Zealand,New Zealand,Pakistan,1,0.6
+2023-04-24,Rawalpindi Cricket Stadium,New Zealand,New Zealand,Pakistan,New Zealand,1,0.6
+2023-07-20,"""Goldenacre",Italy,Ireland,Ireland,Italy,0,0.6
+2023-07-24,"""Grange Cricket Club Ground",Italy,Scotland,Scotland,Italy,0,0.6
+2023-07-28,"""Grange Cricket Club Ground",Ireland,Scotland,Scotland,Ireland,0,0.6
+2023-08-03,"""Brian Lara Stadium",West Indies,West Indies,West Indies,India,1,0.6
+2023-08-06,"""Providence Stadium",India,West Indies,India,West Indies,0,0.6
+2023-08-08,"""Providence Stadium",West Indies,India,West Indies,India,0,0.6
+2023-08-12,"""Central Broward Regional Park Stadium Turf Ground",West Indies,India,West Indies,India,0,0.6
+2023-08-13,"""Central Broward Regional Park Stadium Turf Ground",India,West Indies,India,West Indies,0,0.6
+2023-08-17,Dubai International Cricket Stadium,United Arab Emirates,New Zealand,New Zealand,United Arab Emirates,0,0.6
+2023-08-18,"""Malahide",India,India,Ireland,India,1,0.6
+2023-08-19,Dubai International Cricket Stadium,United Arab Emirates,United Arab Emirates,New Zealand,United Arab Emirates,1,0.6
+2023-08-20,"""Malahide",Ireland,India,India,Ireland,0,0.6
+2023-08-20,Dubai International Cricket Stadium,United Arab Emirates,New Zealand,New Zealand,United Arab Emirates,0,0.6
+2023-08-30,"""Riverside Ground",England,England,New Zealand,England,1,0.6
+2023-08-30,"""Kingsmead",South Africa,Australia,Australia,South Africa,0,0.6
+2023-09-01,"""Old Trafford",England,England,England,New Zealand,1,0.6
+2023-09-01,"""Kingsmead",Australia,Australia,South Africa,Australia,1,0.6
+2023-09-03,"""Kingsmead",South Africa,Australia,South Africa,Australia,0,0.6
+2023-09-03,"""Edgbaston",New Zealand,New Zealand,New Zealand,England,1,0.6
+2023-09-05,"""Trent Bridge",England,New Zealand,England,New Zealand,0,0.6
+2023-09-23,"""West End Park International Cricket Stadium",United Arab Emirates,Oman,United Arab Emirates,Oman,0,0.6
+2023-10-03,Zhejiang University of Technology Cricket Field,India,India,India,Nepal,1,0.6
+2023-10-18,Mulpani Cricket Ground,Nepal,Nepal,United Arab Emirates,Nepal,1,0.6
+2023-10-23,Mulpani Cricket Ground,Nepal,Nepal,United Arab Emirates,Nepal,1,0.6
+2023-10-24,"""Wanderers Cricket Ground",Zimbabwe,Namibia,Zimbabwe,Namibia,0,0.6
+2023-10-25,"""Wanderers Cricket Ground",Zimbabwe,Zimbabwe,Namibia,Zimbabwe,1,0.6
+2023-10-27,"""Tribhuvan University International Cricket Ground",United Arab Emirates,United Arab Emirates,Nepal,United Arab Emirates,1,0.6
+2023-10-27,"""United Cricket Club Ground",Namibia,Zimbabwe,Namibia,Zimbabwe,0,0.6
+2023-10-29,"""United Cricket Club Ground",Zimbabwe,Namibia,Zimbabwe,Namibia,0,0.6
+2023-10-30,"""United Cricket Club Ground",Zimbabwe,Namibia,Namibia,Zimbabwe,0,0.6
+2023-11-02,"""Tribhuvan University International Cricket Ground",Nepal,Oman,Oman,Nepal,0,0.6
+2023-11-03,Mulpani Cricket Ground,United Arab Emirates,Nepal,United Arab Emirates,Nepal,0,0.6
+2023-11-22,"""Wanderers Cricket Ground",Namibia,Namibia,Zimbabwe,Namibia,1,0.6
+2023-11-23,"""Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",India,India,Australia,India,1,0.6
+2023-11-26,"""Greenfield International Stadium",Australia,India,India,Australia,0,0.6
+2023-11-28,"""Barsapara Cricket Stadium",Australia,Australia,India,Australia,1,0.6
+2023-12-01,"""Shaheed Veer Narayan Singh International Stadium",Australia,India,India,Australia,0,0.6
+2023-12-03,"""M Chinnaswamy Stadium",Australia,India,India,Australia,0,0.6
+2023-12-07,Harare Sports Club,Zimbabwe,Zimbabwe,Ireland,Zimbabwe,1,0.6
+2023-12-09,Harare Sports Club,Ireland,Ireland,Zimbabwe,Ireland,1,0.6
+2023-12-10,Harare Sports Club,Ireland,Ireland,Zimbabwe,Ireland,1,0.6
+2023-12-12,"""Kensington Oval",West Indies,West Indies,England,West Indies,1,0.6
+2023-12-12,"""St George's Park",South Africa,South Africa,India,South Africa,1,0.6
+2023-12-14,"""National Cricket Stadium",England,West Indies,West Indies,England,0,0.6
+2023-12-14,"""The Wanderers Stadium",South Africa,India,India,South Africa,0,0.6
+2023-12-16,"""National Cricket Stadium",England,England,West Indies,England,1,0.6
+2023-12-19,"""Brian Lara Stadium",West Indies,England,England,West Indies,0,0.6
+2023-12-21,"""Brian Lara Stadium",West Indies,West Indies,England,West Indies,1,0.6
+2024-01-12,"""Eden Park",Pakistan,New Zealand,New Zealand,Pakistan,0,0.6
+2024-01-14,"""Seddon Park",Pakistan,New Zealand,New Zealand,Pakistan,0,0.6
+2024-01-14,"""R Premadasa Stadium",Sri Lanka,Sri Lanka,Zimbabwe,Sri Lanka,1,0.6
+2024-01-16,"""R Premadasa Stadium",Zimbabwe,Zimbabwe,Sri Lanka,Zimbabwe,1,0.6
+2024-01-17,"""University Oval",Pakistan,New Zealand,New Zealand,Pakistan,0,0.6
+2024-01-18,"""R Premadasa Stadium",Sri Lanka,Sri Lanka,Zimbabwe,Sri Lanka,1,0.6
+2024-01-19,"""Hagley Oval",New Zealand,New Zealand,Pakistan,New Zealand,1,0.6
+2024-01-21,"""Hagley Oval",Pakistan,Pakistan,Pakistan,New Zealand,1,0.6
+2024-02-09,"""Bellerive Oval",West Indies,Australia,Australia,West Indies,0,0.6
+2024-02-11,Adelaide Oval,West Indies,Australia,Australia,West Indies,0,0.6
+2024-02-13,Perth Stadium,West Indies,West Indies,West Indies,Australia,1,0.6
+2024-02-21,"""Sky Stadium",New Zealand,Australia,New Zealand,Australia,0,0.6
+2024-02-23,"""Eden Park",New Zealand,Australia,Australia,New Zealand,0,0.6
+2024-02-25,"""Eden Park",New Zealand,Australia,Australia,New Zealand,0,0.6
+2024-02-27,"""Tribhuvan University International Cricket Ground",Namibia,Namibia,Namibia,Nepal,1,0.6
+2024-02-28,"""Tribhuvan University International Cricket Ground",Nepal,Netherlands,Netherlands,Nepal,0,0.6
+2024-02-29,"""Tribhuvan University International Cricket Ground",Netherlands,Netherlands,Netherlands,Namibia,1,0.6
+2024-03-01,"""Tribhuvan University International Cricket Ground",Namibia,Nepal,Nepal,Namibia,0,0.6
+2024-03-02,"""Tribhuvan University International Cricket Ground",Netherlands,Nepal,Netherlands,Nepal,0,0.6
+2024-03-05,"""Tribhuvan University International Cricket Ground",Nepal,Netherlands,Nepal,Netherlands,0,0.6
+2024-03-11,Dubai International Cricket Stadium,United Arab Emirates,United Arab Emirates,Scotland,United Arab Emirates,1,0.6
+2024-03-13,Dubai International Cricket Stadium,United Arab Emirates,Scotland,Scotland,United Arab Emirates,0,0.6
+2024-03-14,Dubai International Cricket Stadium,United Arab Emirates,Scotland,Scotland,United Arab Emirates,0,0.6
+2024-03-17,"""Achimota Senior Secondary School A Field",Zimbabwe,Zimbabwe,Zimbabwe,Namibia,1,0.6
+2024-03-23,"""Achimota Senior Secondary School A Field",Namibia,Zimbabwe,Namibia,Zimbabwe,0,0.6
+2024-04-01,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Namibia,Namibia,Oman,Namibia,1,0.6
+2024-04-02,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Oman,Oman,Namibia,1,0.6
+2024-04-04,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Oman,Namibia,Oman,1,0.6
+2024-04-05,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Namibia,Namibia,Oman,0,0.6
+2024-04-07,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Namibia,Namibia,Namibia,Oman,1,0.6
+2024-04-15,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Oman,United Arab Emirates,Oman,1,0.6
+2024-04-19,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United Arab Emirates,United Arab Emirates,Nepal,United Arab Emirates,1,0.6
+2024-04-20,Rawalpindi Cricket Stadium,Pakistan,Pakistan,New Zealand,Pakistan,1,0.6
+2024-04-21,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,United Arab Emirates,United Arab Emirates,Oman,0,0.6
+2024-04-21,Rawalpindi Cricket Stadium,New Zealand,New Zealand,Pakistan,New Zealand,1,0.6
+2024-04-25,"""Gaddafi Stadium",Pakistan,New Zealand,New Zealand,Pakistan,0,0.6
+2024-04-27,"""Gaddafi Stadium",New Zealand,Pakistan,Pakistan,New Zealand,0,0.6
+2024-05-10,"""Castle Avenue",Ireland,Ireland,Pakistan,Ireland,1,0.6
+2024-05-12,"""Castle Avenue",Pakistan,Pakistan,Ireland,Pakistan,1,0.6
+2024-05-14,"""Castle Avenue",Pakistan,Pakistan,Ireland,Pakistan,1,0.6
+2024-05-18,"""Sportpark Westvliet",Scotland,Netherlands,Netherlands,Scotland,0,0.6
+2024-05-19,"""Sportpark Westvliet",Netherlands,Ireland,Ireland,Netherlands,0,0.6
+2024-05-22,"""Sportpark Westvliet",Netherlands,Scotland,Scotland,Netherlands,0,0.6
+2024-05-23,"""Sportpark Westvliet",Scotland,Ireland,Scotland,Ireland,0,0.6
+2024-05-23,"""Sabina Park",South Africa,West Indies,West Indies,South Africa,0,0.6
+2024-05-24,"""Sportpark Westvliet",Netherlands,Ireland,Ireland,Netherlands,0,0.6
+2024-05-25,"""Sabina Park",West Indies,West Indies,West Indies,South Africa,1,0.6
+2024-05-25,"""Edgbaston",Pakistan,England,England,Pakistan,0,0.6
+2024-05-26,"""Sabina Park",South Africa,West Indies,South Africa,West Indies,0,0.6
+2024-05-30,"""Kennington Oval",England,England,Pakistan,England,1,0.6
+2024-06-03,"""Nassau County International Cricket Stadium",Sri Lanka,South Africa,Sri Lanka,South Africa,0,0.6
+2024-06-04,"""Grand Prairie Stadium",Netherlands,Netherlands,Nepal,Netherlands,1,0.6
+2024-06-05,"""Nassau County International Cricket Stadium",India,India,Ireland,India,1,0.6
+2024-06-05,"""Kensington Oval",Oman,Australia,Australia,Oman,0,0.6
+2024-06-06,"""Kensington Oval",Namibia,Scotland,Namibia,Scotland,0,0.6
+2024-06-07,"""Nassau County International Cricket Stadium",Ireland,Canada,Canada,Ireland,0,0.6
+2024-06-08,"""Nassau County International Cricket Stadium",South Africa,South Africa,Netherlands,South Africa,1,0.6
+2024-06-08,"""Kensington Oval",England,Australia,Australia,England,0,0.6
+2024-06-09,"""Nassau County International Cricket Stadium",Pakistan,India,India,Pakistan,0,0.6
+2024-06-09,"""Sir Vivian Richards Stadium",Oman,Scotland,Oman,Scotland,0,0.6
+2024-06-11,"""Sir Vivian Richards Stadium",Australia,Australia,Namibia,Australia,1,0.6
+2024-06-11,"""Nassau County International Cricket Stadium",Pakistan,Pakistan,Canada,Pakistan,1,0.6
+2024-06-12,"""Brian Lara Stadium",New Zealand,West Indies,West Indies,New Zealand,0,0.6
+2024-06-13,"""Sir Vivian Richards Stadium",England,England,Oman,England,1,0.6
+2024-06-14,"""Arnos Vale Ground",Nepal,South Africa,South Africa,Nepal,0,0.6
+2024-06-15,"""Daren Sammy National Cricket Stadium",Australia,Australia,Scotland,Australia,1,0.6
+2024-06-15,"""Sir Vivian Richards Stadium",Namibia,England,England,Namibia,0,0.6
+2024-06-16,"""Central Broward Regional Park Stadium Turf Ground",Pakistan,Pakistan,Ireland,Pakistan,1,0.6
+2024-06-16,"""Daren Sammy National Cricket Stadium",Netherlands,Sri Lanka,Sri Lanka,Netherlands,0,0.6
+2024-06-19,"""Daren Sammy National Cricket Stadium",England,England,West Indies,England,1,0.6
+2024-06-21,"""Daren Sammy National Cricket Stadium",England,South Africa,South Africa,England,0,0.6
+2024-06-23,"""Sir Vivian Richards Stadium",South Africa,South Africa,West Indies,South Africa,1,0.6
+2024-06-24,"""Daren Sammy National Cricket Stadium",Australia,India,India,Australia,0,0.6
+2024-06-27,"""Providence Stadium",England,India,India,England,0,0.6
+2024-06-29,"""Kensington Oval",India,India,India,South Africa,1,0.6
+2024-07-06,Harare Sports Club,India,Zimbabwe,Zimbabwe,India,0,0.6
+2024-07-07,Harare Sports Club,India,India,India,Zimbabwe,1,0.6
+2024-07-10,Harare Sports Club,India,India,India,Zimbabwe,1,0.6
+2024-07-13,Harare Sports Club,India,India,Zimbabwe,India,1,0.6
+2024-07-14,Harare Sports Club,Zimbabwe,India,India,Zimbabwe,0,0.6
+2024-07-27,Pallekele International Cricket Stadium,Sri Lanka,India,India,Sri Lanka,0,0.6
+2024-07-28,Pallekele International Cricket Stadium,India,India,Sri Lanka,India,1,0.6
+2024-08-23,"""Brian Lara Stadium",West Indies,West Indies,South Africa,West Indies,1,0.6
+2024-08-23,"""Sportpark Maarschalkerweerd",Canada,Netherlands,Canada,Netherlands,0,0.6
+2024-08-25,"""Brian Lara Stadium",South Africa,West Indies,West Indies,South Africa,0,0.6
+2024-08-26,"""Sportpark Maarschalkerweerd",Netherlands,Canada,Canada,Netherlands,0,0.6
+2024-08-27,"""Brian Lara Stadium",West Indies,West Indies,South Africa,West Indies,1,0.6
+2024-09-04,"""Grange Cricket Club Ground",Australia,Australia,Scotland,Australia,1,0.6
+2024-09-06,"""Grange Cricket Club Ground",Scotland,Australia,Australia,Scotland,0,0.6
+2024-09-07,"""Grange Cricket Club Ground",Australia,Australia,Scotland,Australia,1,0.6
+2024-09-11,"""The Rose Bowl",England,Australia,Australia,England,0,0.6
+2024-09-13,"""Sophia Gardens",England,England,Australia,England,1,0.6
+2024-09-27,"""Zayed Cricket Stadium",South Africa,South Africa,Ireland,South Africa,1,0.6
+2024-09-28,"""Maple Leaf North-West Ground",Nepal,Canada,Canada,Nepal,0,0.6
+2024-09-29,"""Zayed Cricket Stadium",South Africa,Ireland,Ireland,South Africa,0,0.6
+2024-09-29,"""Wanderers Cricket Ground",Namibia,United Arab Emirates,United Arab Emirates,Namibia,0,0.6
+2024-09-29,"""Maple Leaf North-West Ground",Oman,Nepal,Nepal,Oman,0,0.6
+2024-09-30,"""Maple Leaf North-West Ground",Oman,Oman,Canada,Oman,1,0.6
+2024-10-01,"""Maple Leaf North-West Ground",Canada,Canada,Nepal,Canada,1,0.6
+2024-10-02,"""Maple Leaf North-West Ground",Oman,Nepal,Nepal,Oman,0,0.6
+2024-10-02,"""Wanderers Cricket Ground",Namibia,United Arab Emirates,Namibia,United Arab Emirates,0,0.6
+2024-10-03,"""Maple Leaf North-West Ground",Canada,Canada,Oman,Canada,1,0.6
+2024-10-13,Rangiri Dambulla International Stadium,West Indies,West Indies,Sri Lanka,West Indies,1,0.6
+2024-10-15,Rangiri Dambulla International Stadium,Sri Lanka,Sri Lanka,Sri Lanka,West Indies,1,0.6
+2024-10-17,Rangiri Dambulla International Stadium,West Indies,Sri Lanka,West Indies,Sri Lanka,0,0.6
+2024-11-08,"""Kingsmead",South Africa,India,India,South Africa,0,0.6
+2024-11-09,"""Kensington Oval",England,England,West Indies,England,1,0.6
+2024-11-09,Rangiri Dambulla International Stadium,New Zealand,Sri Lanka,New Zealand,Sri Lanka,0,0.6
+2024-11-10,Rangiri Dambulla International Stadium,Sri Lanka,New Zealand,New Zealand,Sri Lanka,0,0.6
+2024-11-10,"""St George's Park",South Africa,South Africa,India,South Africa,1,0.6
+2024-11-10,"""Kensington Oval",England,England,West Indies,England,1,0.6
+2024-11-13,"""SuperSport Park",South Africa,India,India,South Africa,0,0.6
+2024-11-13,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Oman,Netherlands,Oman,1,0.6
+2024-11-14,"""Brisbane Cricket Ground",Pakistan,Australia,Australia,Pakistan,0,0.6
+2024-11-14,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Netherlands,Netherlands,Oman,0,0.6
+2024-11-14,"""Daren Sammy National Cricket Stadium",England,England,West Indies,England,1,0.6
+2024-11-15,"""The Wanderers Stadium",India,India,India,South Africa,1,0.6
+2024-11-16,Sydney Cricket Ground,Australia,Australia,Australia,Pakistan,1,0.6
+2024-11-16,"""Daren Sammy National Cricket Stadium",West Indies,West Indies,England,West Indies,1,0.6
+2024-11-16,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Oman,Netherlands,Netherlands,Oman,0,0.6
+2024-11-18,"""Bellerive Oval",Pakistan,Australia,Pakistan,Australia,0,0.6
+2024-12-01,"""Queens Sports Club",Pakistan,Pakistan,Pakistan,Zimbabwe,1,0.6
+2024-12-03,"""Queens Sports Club",Zimbabwe,Pakistan,Zimbabwe,Pakistan,0,0.6
+2024-12-05,"""Queens Sports Club",Pakistan,Zimbabwe,Pakistan,Zimbabwe,0,0.6
+2024-12-10,"""Kingsmead",South Africa,South Africa,South Africa,Pakistan,1,0.6
+2024-12-13,"""SuperSport Park",Pakistan,South Africa,Pakistan,South Africa,0,0.6
+2024-12-15,"""ICC Academy",Oman,United Arab Emirates,United Arab Emirates,Oman,0,0.6
+2024-12-28,"""Bay Oval",Sri Lanka,New Zealand,New Zealand,Sri Lanka,0,0.6
+2024-12-30,"""Bay Oval",Sri Lanka,New Zealand,New Zealand,Sri Lanka,0,0.6
+2025-01-02,"""Saxton Oval",New Zealand,Sri Lanka,Sri Lanka,New Zealand,0,0.6
+2025-01-22,"""Eden Gardens",India,India,England,India,1,0.6
+2025-01-25,"""MA Chidambaram Stadium",India,India,England,India,1,0.6
+2025-01-28,"""Saurashtra Cricket Association Stadium",India,England,England,India,0,0.6
+2025-01-31,"""Maharashtra Cricket Association Stadium",England,India,India,England,0,0.6
+2025-02-02,"""Wankhede Stadium",England,India,India,England,0,0.6
+2025-02-23,Harare Sports Club,Zimbabwe,Zimbabwe,Ireland,Zimbabwe,1,0.6
+2025-03-16,"""Hagley Oval",New Zealand,New Zealand,Pakistan,New Zealand,1,0.6
+2025-03-18,"""University Oval",New Zealand,New Zealand,Pakistan,New Zealand,1,0.6
+2025-03-19,"""Namibia Cricket Ground",Namibia,Namibia,Canada,Namibia,1,0.6
+2025-03-21,"""Eden Park",Pakistan,Pakistan,New Zealand,Pakistan,1,0.6
+2025-03-22,"""Namibia Cricket Ground",Canada,Namibia,Canada,Namibia,0,0.6
+2025-03-23,"""Namibia Cricket Ground",Namibia,Namibia,Canada,Namibia,1,0.6
+2025-03-23,"""Bay Oval",Pakistan,New Zealand,New Zealand,Pakistan,0,0.6
+2025-03-26,"""Sky Stadium",New Zealand,New Zealand,Pakistan,New Zealand,1,0.6
+2025-06-06,"""Riverside Ground",England,England,England,West Indies,1,0.6
+2025-06-08,"""County Ground",England,England,West Indies,England,1,0.6
+2025-06-10,"""The Rose Bowl",West Indies,England,England,West Indies,0,0.6
+2025-06-15,"""Titwood",Netherlands,Scotland,Scotland,Netherlands,0,0.6
+2025-06-15,"""Bready Cricket Club",Ireland,West Indies,West Indies,Ireland,0,0.6
+2025-06-17,"""Titwood",Nepal,Nepal,Scotland,Nepal,1,0.6
+2025-06-18,"""Titwood",Scotland,Netherlands,Netherlands,Scotland,0,0.6
+2025-06-19,"""Titwood",Nepal,Nepal,Netherlands,Nepal,1,0.6
+2025-06-20,"""Titwood",Scotland,Scotland,Scotland,Nepal,1,0.6
+2025-07-08,"""Sportpark Westvliet",Scotland,Scotland,Scotland,Netherlands,1,0.6
+2025-07-09,"""Sportpark Westvliet",Italy,Italy,Italy,Scotland,1,0.6
+2025-07-11,"""Sportpark Westvliet",Italy,Netherlands,Italy,Netherlands,0,0.6
+2025-07-14,Harare Sports Club,South Africa,South Africa,Zimbabwe,South Africa,1,0.6
+2025-07-16,Harare Sports Club,South Africa,New Zealand,New Zealand,South Africa,0,0.6
+2025-07-18,Harare Sports Club,New Zealand,New Zealand,Zimbabwe,New Zealand,1,0.6
+2025-07-20,Harare Sports Club,South Africa,South Africa,Zimbabwe,South Africa,1,0.6
+2025-07-20,"""Sabina Park",Australia,Australia,West Indies,Australia,1,0.6
+2025-07-22,"""Sabina Park",Australia,Australia,West Indies,Australia,1,0.6
+2025-07-22,Harare Sports Club,New Zealand,New Zealand,South Africa,New Zealand,1,0.6
+2025-07-24,Harare Sports Club,New Zealand,New Zealand,New Zealand,Zimbabwe,1,0.6
+2025-07-25,"""Warner Park",Australia,Australia,West Indies,Australia,1,0.6
+2025-07-26,"""Warner Park",Australia,Australia,West Indies,Australia,1,0.6
+2025-07-26,Harare Sports Club,South Africa,New Zealand,New Zealand,South Africa,0,0.6
+2025-07-28,"""Warner Park",Australia,Australia,West Indies,Australia,1,0.6
+2025-07-31,"""Central Broward Regional Park Stadium Turf Ground",West Indies,Pakistan,Pakistan,West Indies,0,0.6
+2025-08-02,"""Central Broward Regional Park Stadium Turf Ground",Pakistan,West Indies,Pakistan,West Indies,0,0.6
+2025-08-03,"""Central Broward Regional Park Stadium Turf Ground",Pakistan,Pakistan,Pakistan,West Indies,1,0.6
+2025-08-10,"""Marrara Stadium",South Africa,Australia,Australia,South Africa,0,0.6
+2025-08-12,"""Marrara Stadium",Australia,South Africa,South Africa,Australia,0,0.6
+2025-08-16,"""Cazaly's Stadium",Australia,Australia,South Africa,Australia,1,0.6
+2025-08-30,Sharjah Cricket Stadium,Pakistan,Pakistan,Pakistan,United Arab Emirates,1,0.6
+2025-09-03,Harare Sports Club,Sri Lanka,Sri Lanka,Zimbabwe,Sri Lanka,1,0.6
+2025-09-04,Sharjah Cricket Stadium,Pakistan,Pakistan,Pakistan,United Arab Emirates,1,0.6
+2025-09-06,Harare Sports Club,Zimbabwe,Zimbabwe,Sri Lanka,Zimbabwe,1,0.6
+2025-09-07,Harare Sports Club,Sri Lanka,Sri Lanka,Zimbabwe,Sri Lanka,1,0.6
+2025-09-10,Dubai International Cricket Stadium,India,India,United Arab Emirates,India,1,0.6
+2025-09-10,"""Sophia Gardens",England,South Africa,South Africa,England,0,0.6
+2025-09-12,Dubai International Cricket Stadium,Pakistan,Pakistan,Pakistan,Oman,1,0.6
+2025-09-12,"""Old Trafford",South Africa,England,England,South Africa,0,0.6
+2025-09-14,Dubai International Cricket Stadium,Pakistan,India,Pakistan,India,0,0.6
+2025-09-15,"""Zayed Cricket Stadium",Oman,United Arab Emirates,United Arab Emirates,Oman,0,0.6
+2025-09-15,"""Queens Sports Club",Namibia,Zimbabwe,Zimbabwe,Namibia,0,0.6
+2025-09-16,"""Queens Sports Club",Zimbabwe,Zimbabwe,Namibia,Zimbabwe,1,0.6
+2025-09-17,Dubai International Cricket Stadium,United Arab Emirates,Pakistan,Pakistan,United Arab Emirates,0,0.6
+2025-09-17,"""The Village",England,England,Ireland,England,1,0.6
+2025-09-18,"""Queens Sports Club",Namibia,Namibia,Namibia,Zimbabwe,1,0.6
+2025-09-19,"""Zayed Cricket Stadium",India,India,India,Oman,1,0.6
+2025-09-21,Dubai International Cricket Stadium,India,India,Pakistan,India,1,0.6
+2025-09-21,"""The Village",England,England,Ireland,England,1,0.6
+2025-09-23,"""Zayed Cricket Stadium",Pakistan,Pakistan,Sri Lanka,Pakistan,1,0.6
+2025-09-27,Sharjah Cricket Stadium,West Indies,Nepal,Nepal,West Indies,0,0.6
+2025-09-28,Dubai International Cricket Stadium,India,India,Pakistan,India,1,0.6
+2025-09-29,Sharjah Cricket Stadium,Nepal,Nepal,Nepal,West Indies,1,0.6
+2025-09-30,Sharjah Cricket Stadium,West Indies,West Indies,Nepal,West Indies,1,0.6
+2025-10-01,"""Bay Oval",Australia,Australia,New Zealand,Australia,1,0.6
+2025-10-04,Harare Sports Club,Zimbabwe,Zimbabwe,Namibia,Zimbabwe,1,0.6
+2025-10-04,"""Bay Oval",Australia,Australia,New Zealand,Australia,1,0.6
+2025-10-11,"""Namibia Cricket Ground",South Africa,Namibia,South Africa,Namibia,0,0.6
+2025-10-12,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Nepal,Nepal,Nepal,United Arab Emirates,1,0.6
+2025-10-13,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),United Arab Emirates,Oman,United Arab Emirates,Oman,0,0.6
+2025-10-15,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),Nepal,Nepal,Nepal,Oman,1,0.6
+2025-10-20,"""Hagley Oval",New Zealand,England,England,New Zealand,0,0.6
+2025-10-28,Rawalpindi Cricket Stadium,Pakistan,South Africa,South Africa,Pakistan,0,0.6
+2025-10-31,Melbourne Cricket Ground,Australia,Australia,India,Australia,1,0.6
+2025-10-31,"""Gaddafi Stadium",Pakistan,Pakistan,South Africa,Pakistan,1,0.6
+2025-11-01,"""Gaddafi Stadium",Pakistan,Pakistan,South Africa,Pakistan,1,0.6
+2025-11-02,"""Bellerive Oval",India,India,Australia,India,1,0.6
+2025-11-05,"""Eden Park",New Zealand,West Indies,West Indies,New Zealand,0,0.6
+2025-11-06,"""Eden Park",West Indies,New Zealand,New Zealand,West Indies,0,0.6
+2025-11-06,Carrara Oval,Australia,India,India,Australia,0,0.6
+2025-11-09,"""Saxton Oval",New Zealand,New Zealand,New Zealand,West Indies,1,0.6
+2025-11-13,"""University Oval",New Zealand,New Zealand,West Indies,New Zealand,1,0.6
+2025-11-16,"""West End Park International Cricket Stadium",United Arab Emirates,Oman,United Arab Emirates,Oman,0,0.6
+2025-11-18,Rawalpindi Cricket Stadium,Pakistan,Pakistan,Zimbabwe,Pakistan,1,0.6
+2025-11-20,Rawalpindi Cricket Stadium,Sri Lanka,Zimbabwe,Zimbabwe,Sri Lanka,0,0.6
+2025-11-22,Rawalpindi Cricket Stadium,Sri Lanka,Pakistan,Sri Lanka,Pakistan,0,0.6
+2025-11-23,Rawalpindi Cricket Stadium,Pakistan,Pakistan,Pakistan,Zimbabwe,1,0.6
+2025-11-25,Rawalpindi Cricket Stadium,Zimbabwe,Sri Lanka,Zimbabwe,Sri Lanka,0,0.6
+2025-11-27,Rawalpindi Cricket Stadium,Pakistan,Sri Lanka,Sri Lanka,Pakistan,0,0.6
+2025-11-29,Rawalpindi Cricket Stadium,Pakistan,Pakistan,Sri Lanka,Pakistan,1,0.6
+2025-12-09,"""Barabati Stadium",South Africa,India,India,South Africa,0,0.6
+2025-12-11,"""Maharaja Yadavindra Singh International Cricket Stadium",India,South Africa,South Africa,India,0,0.6
+2025-12-14,"""Himachal Pradesh Cricket Association Stadium",India,India,South Africa,India,1,0.6
+2025-12-19,"""Narendra Modi Stadium",South Africa,India,India,South Africa,0,0.6
+2026-01-07,Rangiri Dambulla International Stadium,Pakistan,Pakistan,Sri Lanka,Pakistan,1,0.6
+2026-01-11,Rangiri Dambulla International Stadium,Pakistan,Sri Lanka,Sri Lanka,Pakistan,0,0.6
+2026-01-21,"""Vidarbha Cricket Association Stadium",New Zealand,India,India,New Zealand,0,0.6
+2026-01-23,"""Shaheed Veer Narayan Singh International Stadium",India,India,New Zealand,India,1,0.6
+2026-01-23,"""7he Sevens Stadium",Ireland,Ireland,Italy,Ireland,1,0.6
+2026-01-25,"""Barsapara Cricket Stadium",India,India,New Zealand,India,1,0.6
+2026-01-25,"""7he Sevens Stadium",Italy,Ireland,Ireland,Italy,0,0.6
+2026-01-26,"""7he Sevens Stadium",Italy,Italy,Ireland,Italy,1,0.6
+2026-01-27,"""Boland Park",South Africa,South Africa,West Indies,South Africa,1,0.6
+2026-01-28,"""Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",India,New Zealand,New Zealand,India,0,0.6
+2026-01-29,"""SuperSport Park",South Africa,South Africa,West Indies,South Africa,1,0.6
+2026-01-29,"""Gaddafi Stadium",Pakistan,Pakistan,Pakistan,Australia,1,0.6
+2026-01-29,Dubai International Cricket Stadium,Ireland,Ireland,Ireland,United Arab Emirates,1,0.6
+2026-01-30,Pallekele International Cricket Stadium,England,England,Sri Lanka,England,1,0.6
+2026-01-31,"""The Wanderers Stadium",South Africa,West Indies,West Indies,South Africa,0,0.6
+2026-01-31,"""Greenfield International Stadium",India,India,India,New Zealand,1,0.6
+2026-01-31,"""Gaddafi Stadium",Pakistan,Pakistan,Pakistan,Australia,1,0.6
+2026-01-31,Dubai International Cricket Stadium,United Arab Emirates,Ireland,Ireland,United Arab Emirates,0,0.6
+2026-02-01,"""Gaddafi Stadium",Pakistan,Pakistan,Pakistan,Australia,1,0.6
+2026-02-01,Pallekele International Cricket Stadium,England,England,Sri Lanka,England,1,0.6
+2026-02-03,Pallekele International Cricket Stadium,England,England,England,Sri Lanka,1,0.6
